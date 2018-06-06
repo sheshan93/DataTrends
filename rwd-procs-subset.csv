@@ -1,0 +1,1161 @@
+"","HCPCS.Code","jump","increase","HCPCS.Description","year","count"
+"1","0159T",3.24659653465347,224.659653465347,"Computer-aided detection and computer algorithm analysis of breast MRI image data","2012",3232
+"2","0191T",59.1206030150754,5812.06030150754,"Internal insertion of eye fluid drainage device","2012",597
+"3","0249T",2.37724550898204,137.724550898204,"Suturing hemorrhoids using ultrasound guidance","2012",167
+"4","0281T",6.26086956521739,526.086956521739,"Catheter-delivered implant to left upper heart chamber for appendage closure using imaging","2012",46
+"5","0281T",6.26086956521739,526.086956521739,"Radiological supervision and interpretation of catheter-delivered implant (accessed through the skin) to left upper heart chamber for appendage closure","2012",46
+"6","0297T",2.62162162162162,162.162162162162,"Ext ecg scan w/report","2012",37
+"7","0297T",2.62162162162162,162.162162162162,"Analysis and report of external EKG recording for more than 48 hours up to 21 days","2012",37
+"8","0298T",7.70022497187851,670.022497187852,"Ext ecg review and interp","2012",1778
+"9","0298T",7.70022497187851,670.022497187852,"Review and interpretation of external EKG recording for more than 48 hours up to 21 days","2012",1778
+"10","0308T",6.23076923076923,523.076923076923,"Insj ocular telescope prosth","2012",13
+"11","0308T",6.23076923076923,523.076923076923,"Insertion of prosthetic telescope in eye for the treatment of central vision","2012",13
+"12","102",2.33707865168539,133.707865168539,"Anesthesia for procedure to repair lip defect present at birth","2012",89
+"13","11980",2.0337552742616,103.37552742616,"Insertion of hormone pellets into tissue","2012",237
+"14","11980",2.0337552742616,103.37552742616,"Insertion of hormone pellets beneath the skin","2012",237
+"15","15110",3.57142857142857,257.142857142857,"Skin graft at trunk, arms, or legs (first 100 sq cm or less, or 1% body area of infants and children)","2012",203
+"16","15860",2.25739320920044,125.739320920044,"Injection of agent into vein to assess blood flow of skin graft or flap","2012",913
+"17","15877",2.125,112.5,"Suction assisted removal of fat from trunk","2012",16
+"18","17108",3.2,220,"Destruction of skin growth (over 50.0 sq centimeters)","2012",50
+"19","1925",2.1864406779661,118.64406779661,"Anesthesia for X-ray procedure on neck or heart artery","2012",5192
+"20","1933",2.07142857142857,107.142857142857,"Anesthesia for X-ray procedure of brain vein or lymph system","2012",56
+"21","1933",2.07142857142857,107.142857142857,"Anesthesia for X-ray procedure on brain vein","2012",56
+"22","20500",2.54166666666667,154.166666666667,"Injection for repair of abnormal muscle drainage tract","2012",504
+"23","20982",3.12977099236641,212.977099236641,"Destruction of bone growth using CT guidance","2012",131
+"24","20982",3.12977099236641,212.977099236641,"Destruction of bone growths using CT guidance, accessed through the skin","2012",131
+"25","20982",3.12977099236641,212.977099236641,"Destruction of 1 or more bone growths accessed through the skin","2012",131
+"26","21445",3.88461538461538,288.461538461538,"Open surgical treatment of broken jaw or cheek bone","2012",26
+"27","21445",3.88461538461538,288.461538461538,"Open treatment of broken jaw or cheek bone","2012",26
+"28","22856",4.39285714285714,339.285714285714,"Insertion of artificial spine disc","2012",140
+"29","22856",4.39285714285714,339.285714285714,"Insertion of artificial upper spine disc, anterior approach","2012",140
+"30","24301",2.32549019607843,132.549019607843,"Relocation of muscle or tendon of upper arm or elbow","2012",255
+"31","25430",2.18181818181818,118.181818181818,"Insertion of vascular bone graft into wrist bone","2012",11
+"32","27391",2.16438356164384,116.438356164384,"Repair of multiple hamstring tendons","2012",73
+"33","27391",2.16438356164384,116.438356164384,"Repair of multiple hamstring tendons, open procedure","2012",73
+"34","27394",2.73263888888889,173.263888888889,"Lengthening of multiple hamstring tendons in one leg","2012",288
+"35","27443",3.26666666666667,226.666666666667,"Repair of knee joint","2012",60
+"36","29086",2.41666666666667,141.666666666667,"Application of cast to finger","2012",12
+"37","29851",2.66666666666667,166.666666666667,"Treatment of knee joint fracture with assistance of an endoscope","2012",15
+"38","29851",2.66666666666667,166.666666666667,"Treatment of knee joint fractures with assistance of an endoscope with fixation","2012",15
+"39","29855",3.49469964664311,249.469964664311,"Treatment of broken leg bone with assistance of an endoscope","2012",283
+"40","29856",2.32142857142857,132.142857142857,"Treatment of broken leg bone with assistance of an endoscope","2012",28
+"41","31297",2.00875273522976,100.875273522976,"Dilation of nasal sinus using an endoscope","2012",457
+"42","31627",2.07420573205954,107.420573205954,"Computer-assisted image-guided navigation of lung airways using an endoscope","2012",4501
+"43","31760",2.61538461538462,161.538461538462,"Repair of windpipe cartilage by insertion of splint or graft","2012",13
+"44","33229",2.19278996865204,119.278996865204,"Removal and replacement of multiple lead permanent pacemaker pulse generator","2012",1914
+"45","33282",3.66973574076288,266.973574076288,"Implantation of long-term patient-activated heart monitoring device","2012",8363
+"46","33282",3.66973574076288,266.973574076288,"Implantation patient-activated heart monitoring device","2012",8363
+"47","33982",5.90909090909091,490.909090909091,"Replacement of lower heart chamber assistive blood flow device","2012",11
+"48","33982",5.90909090909091,490.909090909091,"Replacement of lower heart chamber assistive blood flow devices","2012",11
+"49","38242",2.02702702702703,102.702702702703,"Transplantation of donor stem cells from bone marrow or blood with infusion of donor white blood cells","2012",74
+"50","38794",2.53333333333333,153.333333333333,"Exposure of lymph node of chest cavity","2012",15
+"51","42200",2.30769230769231,130.769230769231,"Repair of defect of roof of mouth","2012",13
+"52","43237",10.7932960893855,979.329608938547,"Examination of esophagus, stomach, and upper small bowel using an endoscope","2012",895
+"53","43237",10.7932960893855,979.329608938547,"Ultrasound examination of esophagus, stomach, and/or upper small bowel using an endoscope","2012",895
+"54","43238",11.025787965616,1002.5787965616,"Ultrasound guided needle aspiration or biopsies of esophagus using an endoscope","2012",698
+"55","43257",4.31818181818182,331.818181818182,"Heat delivery to muscle at esophagus and stomach to treat gastrict reflux using an endoscope","2012",66
+"56","43257",4.31818181818182,331.818181818182,"Heat delivery to muscle at esophagus and stomach to treat gastric reflux using an endoscope","2012",66
+"57","43257",4.31818181818182,331.818181818182,"Heat delivery to muscle at esophagus and/or stomach to treat gastric reflux using an endoscope","2012",66
+"58","43496",2.08333333333333,108.333333333333,"Relocation of upper small bowel","2012",12
+"59","43775",25.4505494505494,2445.05494505494,"Stomach bypass procedure with partial removal of stomach using an endoscope","2012",637
+"60","43775",25.4505494505494,2445.05494505494,"Stomach reduction procedure with partial removal of stomach using an endoscope","2012",637
+"61","46744",2.53846153846154,153.846153846154,"Repair of defect for single channel outlet of rectum, vagina, and urinary tract","2012",13
+"62","46946",2.63843236409608,163.843236409608,"Removal and tying 2 or more hemorrhoid group","2012",1582
+"63","47142",3.24,224,"Removal of donor liver right lobe","2012",25
+"64","47146",2.125,112.5,"Preparation of donor liver for transplantation","2012",40
+"65","50949",2.10196078431373,110.196078431373,"Procedure of duct (ureter) using an endoscope","2012",255
+"66","50949",2.10196078431373,110.196078431373,"Urinary duct (ureter) procedure using an endoscope","2012",255
+"67","51990",2.71825396825397,171.825396825397,"Suture suspension of bladder canal (urethra) to control leakage using an endoscope","2012",504
+"68","534",2.82682521287852,182.682521287852,"Anesthesia for insertion or replace of pacing heart defibrillator","2012",19847
+"69","54200",2.17073170731707,117.073170731707,"Injection procedure to correct abnormally-thickened penile tissue","2012",123
+"70","54200",2.17073170731707,117.073170731707,"Injection procedure to correct abnormally thickened penile tissue","2012",123
+"71","560",2.11935828877005,111.935828877005,"Anesthesia for procedure on heart and great blood vessels","2012",18700
+"72","61860",4.09090909090909,309.090909090909,"Implantation of neurostimulator electrodes in brain","2012",11
+"73","64430",2.01362862010221,101.362862010221,"Injection of anesthetic agent, pudendal (external genital) nerve","2012",587
+"74","64505",2.48433734939759,148.433734939759,"Injection of anesthetic agent, trigeminal nerve bundle","2012",415
+"75","64566",2.4708276797829,147.08276797829,"Implantation of lower leg neurostimulator electrode","2012",737
+"76","64566",2.4708276797829,147.08276797829,"Implantation of lower leg neurostimulator electrode, accessed through the skin","2012",737
+"77","64611",2.29192546583851,129.192546583851,"Injection of chemical for destruction of salivary glands","2012",483
+"78","64611",2.29192546583851,129.192546583851,"Injection of chemical for destruction of salivary glands on both sides of the mouth","2012",483
+"79","64650",2.24324324324324,124.324324324324,"Injection of chemical for destruction of underarm sweat glands","2012",37
+"80","64868",2.06666666666667,106.666666666667,"Connection of nerves to restore function to the face","2012",15
+"81","65800",2.28998505231689,128.998505231689,"Aspiration of eye fluid for diagnosis","2012",669
+"82","65800",2.28998505231689,128.998505231689,"Aspiration of eye fluid","2012",669
+"83","65820",2.84415584415584,184.415584415584,"Incision to improve eye fluid flow","2012",77
+"84","66505",5,400,"Incision and drainage of eye fluid accumulation in iris","2012",11
+"85","69799",2.02439024390244,102.439024390244,"Middle ear procedure","2012",41
+"86","70310",5,400,"X-ray of teeth, less than full mouth","2012",12
+"87","70558",2.33333333333333,133.333333333333,"MRI scan of brain with contrast","2012",18
+"88","70558",2.33333333333333,133.333333333333,"MRI scan of brain with contrast, during open brain procedure","2012",18
+"89","75559",2.2,120,"MRI of heart with stress imaging","2012",30
+"90","75571",3.63426488456865,263.426488456865,"CT scan of heart with evaluation of blood vessel calcium","2012",1646
+"91","75572",2.08177881412392,108.177881412392,"CT scan of heart structure","2012",6004
+"92","75572",2.08177881412392,108.177881412392,"CT scan of heart structure with contrast","2012",6004
+"93","75807",2.96774193548387,196.774193548387,"Imaging of lymphatic tissue of pelvis and abdomen","2012",31
+"94","75807",2.96774193548387,196.774193548387,"Radiological supervision and interpretation of imaging of lymphatic system of both side of pelvis and abdomen","2012",31
+"95","76497",2.39393939393939,139.393939393939,"CT scan","2012",33
+"96","76977",3.25,225,"Ultrasound of bone density measurement","2012",12
+"97","77071",2.06917475728155,106.917475728155,"Imaging of joint with stressing by physician","2012",824
+"98","77399",3.35294117647059,235.294117647059,"Management of radiation therapy","2012",68
+"99","77605",3.89189189189189,289.189189189189,"External hyperthermia treatment depth greater than 4 cm","2012",37
+"100","78492",2.05628502802242,105.628502802242,"Nuclear medicine study heart muscle at rest and/or stress multiple studies","2012",12490
+"101","78599",3.82352941176471,282.352941176471,"Nuclear medicine study of respiratory systems","2012",34
+"102","78999",4.71515151515151,371.515151515152,"Diagnostic nuclear medicine procedures","2012",165
+"103","79101",6.35030549898167,535.030549898167,"Radioactive material therapy into vein","2012",491
+"104","79445",3.34122562674095,234.122562674095,"Radioactive material therapy into artery","2012",718
+"105","80048",2.95297555791711,195.297555791711,"Blood test, basic group of blood chemicals","2012",7528
+"106","80051",8.79329608938547,779.329608938547,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)","2012",179
+"107","80053",2.05715859030837,105.715859030837,"Blood test, comprehensive group of blood chemicals","2012",9080
+"108","80164",2.78105141536684,178.105141536684,"Dipropylacetic acid (valproic acid) level","2012",1731
+"109","80164",2.78105141536684,178.105141536684,"Valproic acid level","2012",1731
+"110","80188",6.07692307692308,507.692307692308,"Primidone level","2012",13
+"111","80202",2.42380952380952,142.380952380952,"Vancomycin (antibiotic) level","2012",210
+"112","81000",2.30409356725146,130.409356725146,"Manual urinalysis test with examination using microscope","2012",342
+"113","81001",2.41611670719,141.611670719,"Manual urinalysis test with examination using microscope","2012",5758
+"114","81003",5.63970588235294,463.970588235294,"Automated urinalysis test","2012",272
+"115","82040",2.42893725992318,142.893725992318,"Albumin (protein) level","2012",781
+"116","82043",3.57317073170732,257.317073170732,"Urine microalbumin (protein) level","2012",164
+"117","82140",3.65420560747664,265.420560747664,"Ammonia level","2012",321
+"118","82150",5.1744966442953,417.44966442953,"Amylase (enzyme) level","2012",149
+"119","82248",14.6258741258741,1362.58741258741,"Bilirubin level","2012",286
+"120","82272",4.88732394366197,388.732394366197,"Stool analysis for blood","2012",71
+"121","82306",5.34606569900688,434.606569900688,"Vitamin D-3 level","2012",1309
+"122","82310",8.24096385542169,724.096385542169,"Calcium level","2012",83
+"123","82374",7.32352941176471,632.352941176471,"Carbon dioxide (bicarbonate) level","2012",34
+"124","82378",2.0126582278481,101.26582278481,"Carcinoembryonic antigen (CEA) protein level","2012",79
+"125","82435",7.35294117647059,635.294117647059,"Blood chloride level","2012",34
+"126","82533",6.15,515,"Cortisol (hormone) measurement","2012",20
+"127","82550",3.82142857142857,282.142857142857,"Creatine kinase (cardiac enzyme) level","2012",224
+"128","82553",3.59090909090909,259.090909090909,"Creatine kinase (cardiac enzyme) level","2012",22
+"129","82565",6.70444444444444,570.444444444444,"Blood creatinine level","2012",450
+"130","82570",5.21212121212121,421.212121212121,"Creatinine level to test for kidney function or muscle injury","2012",165
+"131","82607",5.11826452064381,411.826452064381,"Cyanocobalamin (vitamin B-12) level","2012",1429
+"132","82668",6.8,580,"Erythropoietin (protein) level","2012",15
+"133","82728",3.36763129689175,236.763129689175,"Ferritin (blood protein) level","2012",933
+"134","82746",4.77328843995511,377.328843995511,"Folic acid level","2012",891
+"135","82784",11.2857142857143,1028.57142857143,"Gammaglobulin (immune system protein) measurement","2012",28
+"136","82803",4.36,336,"Blood gases measurement","2012",75
+"137","82947",9.96858638743456,896.858638743456,"Blood glucose (sugar) level","2012",191
+"138","82977",4.44,344,"Glutamyltransferase (liver enzyme) level","2012",25
+"139","83036",3.16638900458142,216.638900458142,"Hemoglobin A1C level","2012",4802
+"140","83520",2.90909090909091,190.909090909091,"Measurement of substance using immunoassay technique","2012",11
+"141","83540",3.65896487985213,265.896487985213,"Iron level","2012",1082
+"142","83550",3.46083550913838,246.083550913838,"Iron binding capacity","2012",766
+"143","83615",3.10891089108911,210.891089108911,"Lactate dehydrogenase (enzyme) level","2012",101
+"144","83690",5.96240601503759,496.240601503759,"Lipase (fat enzyme) level","2012",133
+"145","83921",3,200,"Organic acid level","2012",33
+"146","83935",5.45454545454545,445.454545454545,"Urine osmolality (concentration) measurement","2012",11
+"147","84075",2.03448275862069,103.448275862069,"Phosphatase (enzyme) level","2012",87
+"148","84100",3.22765957446809,222.765957446809,"Phosphate level","2012",470
+"149","84132",3.5968992248062,259.68992248062,"Blood potassium level","2012",516
+"150","84146",4.72222222222222,372.222222222222,"Prolactin (milk producing hormone) level","2012",18
+"151","84155",3.98540145985401,298.540145985401,"Total protein level, blood","2012",137
+"152","84156",3.63636363636364,263.636363636364,"Total protein level, urine","2012",33
+"153","84295",7.31325301204819,631.325301204819,"Blood sodium level","2012",83
+"154","84300",5.53846153846154,453.846153846154,"Urine sodium level","2012",13
+"155","84403",5.33333333333333,433.333333333333,"Testosterone (hormone) level","2012",15
+"156","84436",3.48815165876777,248.815165876777,"Thyroxine (thyroid chemical) measurement","2012",633
+"157","84439",5.28132387706856,428.132387706856,"Thyroxine (thyroid chemical) measurement","2012",846
+"158","84443",3.27193548387097,227.193548387097,"Blood test, thyroid stimulating hormone (TSH)","2012",6200
+"159","84450",3.89285714285714,289.285714285714,"Liver enzyme (SGOT), level","2012",224
+"160","84460",3.29428571428571,229.428571428571,"Liver enzyme (SGPT), level","2012",350
+"161","84466",2.71544715447154,171.544715447154,"Transferrin (iron binding protein) level","2012",123
+"162","84479",3.63257575757576,263.257575757576,"Thyroid hormone evaluation","2012",264
+"163","84480",7.99090909090909,699.090909090909,"Thyroid hormone, T3 measurement","2012",110
+"164","84481",3.22516556291391,222.516556291391,"Thyroid hormone, T3 measurement","2012",151
+"165","84520",8.53511705685619,753.511705685619,"Urea nitrogen level to assess kidney function","2012",299
+"166","84550",5.39951573849879,439.951573849879,"Uric acid level, blood","2012",413
+"167","85007",24.0574712643678,2305.74712643678,"Microscopic examination for white blood cells with manual cell count","2012",87
+"168","85014",3.8734693877551,287.34693877551,"Red blood cell concentration measurement","2012",490
+"169","85018",3.68681318681319,268.681318681319,"Hemoglobin measurement","2012",546
+"170","85025",2.34816993464052,134.816993464052,"Complete blood cell count (red cells, white blood cell, platelets), automated test","2012",15300
+"171","85027",65.2568306010929,6425.68306010929,"Complete blood cell count (red cells, white blood cell, platelets), automated test","2012",183
+"172","85045",13.75,1275,"Red blood count, automated test","2012",32
+"173","85652",2.51851851851852,151.851851851852,"Red blood cell sedimentation rate, to detect inflammation","2012",27
+"174","85730",2.6241610738255,162.41610738255,"Coagulation assessment blood test","2012",298
+"175","86038",5.02702702702703,402.702702702703,"Screening test for autoimmune disorder","2012",37
+"176","86039",3.63636363636364,263.636363636364,"Measurement of antibody for assessment of autoimmune disorder","2012",11
+"177","86140",3.7344398340249,273.44398340249,"Measurement C-reactive protein for detection of infection or inflammation","2012",241
+"178","86300",2.25,125,"Immunologic analysis for detection of tumor antigen","2012",12
+"179","86431",13.4166666666667,1241.66666666667,"Rheumatoid factor level","2012",12
+"180","87040",2.89225589225589,189.225589225589,"Bacterial blood culture","2012",297
+"181","87046",20.5333333333333,1953.33333333333,"Stool culture","2012",15
+"182","87071",52.2777777777778,5127.77777777778,"Bacterial culture and colony count","2012",18
+"183","87081",3.86842105263158,286.842105263158,"Screening test for pathogenic organisms","2012",76
+"184","87086",2.51724754244861,151.724754244861,"Bacterial colony count, urine","2012",5595
+"185","87147",16.7857142857143,1578.57142857143,"Identification of organisms by immunologic analysis","2012",14
+"186","87177",7.06451612903226,606.451612903226,"Smear for parasites","2012",31
+"187","87184",36.5333333333333,3553.33333333333,"Evaluation of antimicrobial drug (antibiotic, antifungal, antiviral)","2012",15
+"188","87205",4.81976744186047,381.976744186047,"Special stain for microorganism","2012",344
+"189","87804",19.3,1830,"Detection test for Influenza virus","2012",80
+"190","87804",19.3,1830,"Detection test for influenza virus","2012",80
+"191","88142",2.9125,191.25,"Pap test (Pap smear)","2012",80
+"192","88356",2.5,150,"Microscopic genetic analysis of nerve tissue","2012",104
+"193","90662",3.09826589595376,209.826589595376,"Vaccine for influenza injection","2012",1038
+"194","90662",3.09826589595376,209.826589595376,"Vaccine for influenza for injection into muscle","2012",1038
+"195","90670",38.8299319727891,3782.99319727891,"Pneumococcal vaccine for injection","2012",147
+"196","90670",38.8299319727891,3782.99319727891,"Pneumococcal vaccine for injection into muscle","2012",147
+"197","90867",2.59375,159.375,"Transcranial magnetic stimulation initial mapping motor threshold determination delivery and management","2012",32
+"198","90867",2.59375,159.375,"Transcranial magnetic stimulation treatment (stimulates nerve cells in brain to improve symptoms of depression)","2012",32
+"199","90868",4.57377049180328,357.377049180328,"Transcranial magnetic stimulation subsequent delivery and management per session","2012",61
+"200","90868",4.57377049180328,357.377049180328,"Transcranial magnetic stimulation treatment (stimulates nerve cells in brain to improve symptoms of depression), per session","2012",61
+"201","90993",2.46666666666667,146.666666666667,"Dialysis training, patient helper, course not completed","2012",15
+"202","91037",2.13853258081067,113.853258081067,"Monitoring of gastroesophageal reflux including analysis and interpretation","2012",1949
+"203","91132",6.76923076923077,576.923076923077,"Recording of gastrointestinal electrical activity of stomach","2012",13
+"204","92140",2.75961538461538,175.961538461538,"Glaucoma testing of eye fluid pressure","2012",104
+"205","92283",2.03636363636364,103.636363636364,"Extended color vision examination","2012",110
+"206","92284",2.11392405063291,111.392405063291,"Evaluation of eye adaptation to light and dark (rods and cones)","2012",79
+"207","92499",4,300,"Service or surgery of the eye","2012",50
+"208","92507",20,1900,"Treatment of speech, language, voice, communication, or hearing processing disorder","2012",15
+"209","92507",20,1900,"Treatment of speech, language, voice, communication, and/or hearing processing disorder","2012",15
+"210","92526",2.11111111111111,111.111111111111,"Treatment of swallowing or oral feeding function","2012",117
+"211","92526",2.11111111111111,111.111111111111,"Treatment of swallowing and/or oral feeding function","2012",117
+"212","92547",2.34375,134.375,"Use of vertical electrodes during eye or balance evaluation","2012",96
+"213","92552",2.03448275862069,103.448275862069,"Pure tone air conduction threshold hearing assessment","2012",58
+"214","92556",4.88,388,"Assessment of hearing loss and speech recognition","2012",25
+"215","92567",2.01589682063587,101.589682063587,"Eardrum testing using ear probe","2012",6668
+"216","92604",2.08636363636364,108.636363636364,"Analysis and subsequent reprogramming of inner ear (cochlear) implant, patient age 7 years or older","2012",220
+"217","92604",2.08636363636364,108.636363636364,"Analysis and reprogramming of inner ear (cochlear) implant, patient age 7 years or older","2012",220
+"218","92626",4.10648148148148,310.648148148148,"Evaluation of hearing rehabilitation","2012",216
+"219","92626",4.10648148148148,310.648148148148,"Evaluation of hearing rehabilitation first hour","2012",216
+"220","92997",2.5,150,"Balloon catheter opening of major lung artery (pulmonary)","2012",38
+"221","92997",2.5,150,"Balloon catheter opening of major lung artery (pulmonary), accessed through the skin","2012",38
+"222","93000",2.05601659751037,105.601659751037,"Routine EKG using at least 12 leads including interpretation and report","2012",7230
+"223","93040",2.68421052631579,168.421052631579,"Tracing of electrical activity of heart using 1-3 leads with interpretation and report","2012",57
+"224","93285",2.47547797173732,147.547797173732,"Evaluation, testing, and programming adjustment of implantable, patient activated heart recorder system including physician analysis, review, and report","2012",1203
+"225","93291",2.62696522153406,162.696522153406,"Evaluation of implantable heart recorder system including physician analysis, review, and report","2012",2099
+"226","93298",6.61423220973783,561.423220973783,"Remote evaluation of implantable heart recorder system including physician analysis, review, and report up to 30 days","2012",1335
+"227","93298",6.61423220973783,561.423220973783,"Remote evaluations of implantable heart recorder system including physician analysis, review, and report up to 30 days","2012",1335
+"228","93750",2.70669698222406,170.669698222406,"Evaluation of lower heart chamber assist device with physician analysis","2012",4838
+"229","93998",3,200,"Noninvasive vascular diagnostic study","2012",12
+"230","94452",2.19075144508671,119.075144508671,"Testing of lung function at high altitude","2012",173
+"231","94453",2.62307692307692,162.307692307692,"Testing of lung function at high altitude with supplemental oxygen delivery","2012",130
+"232","94770",4.65116279069767,365.116279069767,"Measurement of exhaled carbon dioxide gas","2012",43
+"233","95145",2.18181818181818,118.181818181818,"Preparation and provision of single stinging insect venom for allergen immunotherapy","2012",22
+"234","95147",2.95454545454545,195.454545454545,"Preparation and provision of 3 single stinging insect venom for allergen immunotherapy","2012",22
+"235","95148",2.8125,181.25,"Preparation and provision of 4 single stinging insect venom for allergen immunotherapy","2012",16
+"236","95800",6.09567901234568,509.567901234568,"Study of sleep patterns","2012",324
+"237","95801",4.45454545454545,345.454545454545,"Study of sleep patterns","2012",132
+"238","95806",5.31466395112016,431.466395112016,"Unattended sleep study with recording of heart rate, oxygen, respiratory airflow and effort","2012",1964
+"239","95834",2.11111111111111,111.111111111111,"Manual muscle testing of whole body including hands","2012",63
+"240","95981",2.58426966292135,158.426966292135,"Electronic analysis of implanted gastric neurostimulator generator or transmitter","2012",89
+"241","95982",2.17532467532468,117.532467532468,"Electronic analysis and programming of implanted gastric neurostimulator generator or transmitter","2012",154
+"242","96111",2.91666666666667,191.666666666667,"Developmental testing","2012",24
+"243","96920",2.21739130434783,121.739130434783,"Laser treatment (total area less than 250 sq centimeters) for inflammatory skin disease","2012",92
+"244","96922",2.92857142857143,192.857142857143,"Laser treatment (over 500 sq centimeters) for inflammatory skin disease","2012",14
+"245","97762",2.2972972972973,129.72972972973,"Evaluation of orthotic or prosthetic use, each 15 minutes","2012",37
+"246","98929",2.08991494532199,108.991494532199,"Osteopathic manipulative treatment to 9-10 body regions","2012",823
+"247","G0009",3.03024830699774,203.024830699774,"Administration of pneumococcal vaccine","2012",2215
+"248","G0108",2.11767866738313,111.767866738313,"Diabetes outpatient self-management training services, individual, per 30 minutes","2012",1861
+"249","G0389",2.39750273540581,139.750273540581,"Ultrasound b-scan and/or real time with image documentation; for abdominal aortic aneurysm (aaa) screening","2012",15537
+"250","G0398",2.93548387096774,193.548387096774,"Home sleep study test (hst) with type ii portable monitor, unattended; minimum of 7 channels: eeg, eog, emg, ecg/heart rate, airflow, respiratory effort and oxygen saturation","2012",31
+"251","G0399",12.7142857142857,1171.42857142857,"Home sleep test (hst) with type iii portable monitor, unattended; minimum of 4 channels: 2 respiratory movement/airflow, 1 ecg/heart rate and 1 oxygen saturation","2012",154
+"252","G0400",3.94117647058824,294.117647058824,"Home sleep test (hst) with type iv portable monitor, unattended; minimum of 3 channels","2012",17
+"253","G0407",2.7906976744186,179.06976744186,"Follow-up inpatient consultation, intermediate, physicians typically spend 25 minutes communicating with the patient via telehealth","2012",860
+"254","G0408",4.65714285714286,365.714285714286,"Follow-up inpatient consultation, complex, physicians typically spend 35 minutes communicating with the patient via telehealth","2012",420
+"255","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examination for prostate needle saturation biopsy sampling, 1-20 specimens","2012",1936
+"256","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examinations for prostate needle saturation biopsy sampling, 10-20 specimens","2012",1936
+"257","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examinations, for prostate needle biopsy, any method, 10-20 specimens","2012",1936
+"258","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examinations, for prostate needle biopsy, any method","2012",1936
+"259","G0424",2.08333333333333,108.333333333333,"Pulmonary rehabilitation, including exercise (includes monitoring), one hour, per session, up to two sessions per day","2012",72
+"260","G0425",5.18165938864629,418.165938864629,"Telehealth consultation, emergency department or initial inpatient, typically 30 minutes communicating with the patient via telehealth","2012",1145
+"261","G0426",2.75485188968335,175.485188968335,"Telehealth consultation, emergency department or initial inpatient, typically 50 minutes communicating with the patient via telehealth","2012",979
+"262","G0427",2.53678077203205,153.678077203205,"Telehealth consultation, emergency department or initial inpatient, typically 70 minutes or more communicating with the patient via telehealth","2012",1373
+"263","G0437",2.61183431952663,161.183431952663,"Smoking and tobacco cessation counseling visit for the asymptomatic patient; intensive, greater than 10 minutes","2012",845
+"264","G0439",3.88804715127701,288.804715127701,"Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit","2012",63625
+"265","G0442",5.00892857142857,400.892857142857,"Annual alcohol misuse screening, 15 minutes","2012",224
+"266","G0444",11.5133689839572,1051.33689839572,"Annual depression screening, 15 minutes","2012",374
+"267","G0446",3.29059829059829,229.059829059829,"Intensive behavioral therapy to reduce cardiovascular disease risk, individual, face-to-face, bi-annual, 15 minutes","2012",117
+"268","G0446",3.29059829059829,229.059829059829,"Annual, face-to-face intensive behavioral therapy for cardiovascular disease, individual, 15 minutes","2012",117
+"269","J0585",7.93800539083558,693.800539083558,"Injection, onabotulinumtoxina, 1 unit","2012",371
+"270","J0696",2.70769230769231,170.769230769231,"Injection, ceftriaxone sodium, per 250 mg","2012",195
+"271","J0702",2.33333333333333,133.333333333333,"Injection, betamethasone acetate 3mg and betamethasone sodium phosphate 3mg","2012",177
+"272","J1020",3.57894736842105,257.894736842105,"Injection, methylprednisolone acetate, 20 mg","2012",38
+"273","J1030",2.02912621359223,102.912621359223,"Injection, methylprednisolone acetate, 40 mg","2012",721
+"274","J1885",4.32394366197183,332.394366197183,"Injection, ketorolac tromethamine, per 15 mg","2012",142
+"275","J2785",2.5,150,"Injection, regadenoson, 0.1 mg","2012",24
+"276","J2785",2.5,150,"Injection, regadenoson, 0. 1 mg","2012",24
+"277","J2920",2.14285714285714,114.285714285714,"Injection, methylprednisolone sodium succinate, up to 40 mg","2012",21
+"278","J2930",29.125,2812.5,"Injection, methylprednisolone sodium succinate, up to 125 mg","2012",16
+"279","J3010",18.5909090909091,1759.09090909091,"Injection, fentanyl citrate, 0.1 mg","2012",22
+"280","J3010",18.5909090909091,1759.09090909091,"Injection, fentanyl citrate, 0. 1 mg","2012",22
+"281","J7323",3.5,250,"Hyaluronan or derivative, euflexxa, for intra-articular injection, per dose","2012",48
+"282","J7324",3.75806451612903,275.806451612903,"Hyaluronan or derivative, orthovisc, for intra-articular injection, per dose","2012",62
+"283","J7620",4.32727272727273,332.727272727273,"Albuterol, up to 2.5 mg and ipratropium bromide, up to 0.5 mg, fda-approved final product, non-compounded, administered through dme","2012",55
+"284","J7620",4.32727272727273,332.727272727273,"Albuterol, up to 2. 5 mg and ipratropium bromide, up to 0. 5 mg, fda-approved final product, non-compounded, administered through dme","2012",55
+"285","P9603",2.28250141394874,128.250141394874,"Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled.","2012",90173
+"286","P9603",2.28250141394874,128.250141394874,"Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled","2012",90173
+"287","Q3014",108,10700,"Telehealth originating site facility fee","2012",13
+"288","Q4038",2.125,112.5,"Cast supplies, short leg cast, adult (11 years +), fiberglass","2012",16
+"289","Q4110",5.30769230769231,430.769230769231,"Primatrix, per square centimeter","2012",13
+"290","Q9965",18.3636363636364,1736.36363636364,"Low osmolar contrast material, 100-199 mg/ml iodine concentration, per ml","2012",11
+"291","0159T",3.24659653465347,224.659653465347,"Computer-aided detection and computer algorithm analysis of breast MRI image data","2013",7331
+"292","0191T",59.1206030150754,5812.06030150754,"Internal insertion of eye fluid drainage device","2013",10095
+"293","0249T",2.37724550898204,137.724550898204,"Suturing hemorrhoids using ultrasound guidance","2013",155
+"294","0281T",6.26086956521739,526.086956521739,"Catheter-delivered implant to left upper heart chamber for appendage closure using imaging","2013",150
+"295","0281T",6.26086956521739,526.086956521739,"Radiological supervision and interpretation of catheter-delivered implant (accessed through the skin) to left upper heart chamber for appendage closure","2013",150
+"296","0297T",2.62162162162162,162.162162162162,"Ext ecg scan w/report","2013",NA
+"297","0297T",2.62162162162162,162.162162162162,"Analysis and report of external EKG recording for more than 48 hours up to 21 days","2013",NA
+"298","0298T",7.70022497187851,670.022497187852,"Ext ecg review and interp","2013",5029
+"299","0298T",7.70022497187851,670.022497187852,"Review and interpretation of external EKG recording for more than 48 hours up to 21 days","2013",5029
+"300","0308T",6.23076923076923,523.076923076923,"Insj ocular telescope prosth","2013",109
+"301","0308T",6.23076923076923,523.076923076923,"Insertion of prosthetic telescope in eye for the treatment of central vision","2013",109
+"302","102",2.33707865168539,133.707865168539,"Anesthesia for procedure to repair lip defect present at birth","2013",73
+"303","11980",2.0337552742616,103.37552742616,"Insertion of hormone pellets into tissue","2013",383
+"304","11980",2.0337552742616,103.37552742616,"Insertion of hormone pellets beneath the skin","2013",383
+"305","15110",3.57142857142857,257.142857142857,"Skin graft at trunk, arms, or legs (first 100 sq cm or less, or 1% body area of infants and children)","2013",305
+"306","15860",2.25739320920044,125.739320920044,"Injection of agent into vein to assess blood flow of skin graft or flap","2013",1462
+"307","15877",2.125,112.5,"Suction assisted removal of fat from trunk","2013",38
+"308","17108",3.2,220,"Destruction of skin growth (over 50.0 sq centimeters)","2013",94
+"309","1925",2.1864406779661,118.64406779661,"Anesthesia for X-ray procedure on neck or heart artery","2013",8277
+"310","1933",2.07142857142857,107.142857142857,"Anesthesia for X-ray procedure of brain vein or lymph system","2013",68
+"311","1933",2.07142857142857,107.142857142857,"Anesthesia for X-ray procedure on brain vein","2013",68
+"312","20500",2.54166666666667,154.166666666667,"Injection for repair of abnormal muscle drainage tract","2013",791
+"313","20982",3.12977099236641,212.977099236641,"Destruction of bone growth using CT guidance","2013",187
+"314","20982",3.12977099236641,212.977099236641,"Destruction of bone growths using CT guidance, accessed through the skin","2013",187
+"315","20982",3.12977099236641,212.977099236641,"Destruction of 1 or more bone growths accessed through the skin","2013",187
+"316","21445",3.88461538461538,288.461538461538,"Open surgical treatment of broken jaw or cheek bone","2013",47
+"317","21445",3.88461538461538,288.461538461538,"Open treatment of broken jaw or cheek bone","2013",47
+"318","22856",4.39285714285714,339.285714285714,"Insertion of artificial spine disc","2013",216
+"319","22856",4.39285714285714,339.285714285714,"Insertion of artificial upper spine disc, anterior approach","2013",216
+"320","24301",2.32549019607843,132.549019607843,"Relocation of muscle or tendon of upper arm or elbow","2013",226
+"321","25430",2.18181818181818,118.181818181818,"Insertion of vascular bone graft into wrist bone","2013",15
+"322","27391",2.16438356164384,116.438356164384,"Repair of multiple hamstring tendons","2013",61
+"323","27391",2.16438356164384,116.438356164384,"Repair of multiple hamstring tendons, open procedure","2013",61
+"324","27394",2.73263888888889,173.263888888889,"Lengthening of multiple hamstring tendons in one leg","2013",266
+"325","27443",3.26666666666667,226.666666666667,"Repair of knee joint","2013",52
+"326","29086",2.41666666666667,141.666666666667,"Application of cast to finger","2013",19
+"327","29851",2.66666666666667,166.666666666667,"Treatment of knee joint fracture with assistance of an endoscope","2013",20
+"328","29851",2.66666666666667,166.666666666667,"Treatment of knee joint fractures with assistance of an endoscope with fixation","2013",20
+"329","29855",3.49469964664311,249.469964664311,"Treatment of broken leg bone with assistance of an endoscope","2013",346
+"330","29856",2.32142857142857,132.142857142857,"Treatment of broken leg bone with assistance of an endoscope","2013",25
+"331","31297",2.00875273522976,100.875273522976,"Dilation of nasal sinus using an endoscope","2013",621
+"332","31627",2.07420573205954,107.420573205954,"Computer-assisted image-guided navigation of lung airways using an endoscope","2013",5926
+"333","31760",2.61538461538462,161.538461538462,"Repair of windpipe cartilage by insertion of splint or graft","2013",31
+"334","33229",2.19278996865204,119.278996865204,"Removal and replacement of multiple lead permanent pacemaker pulse generator","2013",2639
+"335","33282",3.66973574076288,266.973574076288,"Implantation of long-term patient-activated heart monitoring device","2013",10174
+"336","33282",3.66973574076288,266.973574076288,"Implantation patient-activated heart monitoring device","2013",10174
+"337","33982",5.90909090909091,490.909090909091,"Replacement of lower heart chamber assistive blood flow device","2013",38
+"338","33982",5.90909090909091,490.909090909091,"Replacement of lower heart chamber assistive blood flow devices","2013",38
+"339","38242",2.02702702702703,102.702702702703,"Transplantation of donor stem cells from bone marrow or blood with infusion of donor white blood cells","2013",90
+"340","38794",2.53333333333333,153.333333333333,"Exposure of lymph node of chest cavity","2013",21
+"341","42200",2.30769230769231,130.769230769231,"Repair of defect of roof of mouth","2013",15
+"342","43237",10.7932960893855,979.329608938547,"Examination of esophagus, stomach, and upper small bowel using an endoscope","2013",1078
+"343","43237",10.7932960893855,979.329608938547,"Ultrasound examination of esophagus, stomach, and/or upper small bowel using an endoscope","2013",1078
+"344","43238",11.025787965616,1002.5787965616,"Ultrasound guided needle aspiration or biopsies of esophagus using an endoscope","2013",755
+"345","43257",4.31818181818182,331.818181818182,"Heat delivery to muscle at esophagus and stomach to treat gastrict reflux using an endoscope","2013",138
+"346","43257",4.31818181818182,331.818181818182,"Heat delivery to muscle at esophagus and stomach to treat gastric reflux using an endoscope","2013",138
+"347","43257",4.31818181818182,331.818181818182,"Heat delivery to muscle at esophagus and/or stomach to treat gastric reflux using an endoscope","2013",138
+"348","43496",2.08333333333333,108.333333333333,"Relocation of upper small bowel","2013",NA
+"349","43775",25.4505494505494,2445.05494505494,"Stomach bypass procedure with partial removal of stomach using an endoscope","2013",10583
+"350","43775",25.4505494505494,2445.05494505494,"Stomach reduction procedure with partial removal of stomach using an endoscope","2013",10583
+"351","46744",2.53846153846154,153.846153846154,"Repair of defect for single channel outlet of rectum, vagina, and urinary tract","2013",22
+"352","46946",2.63843236409608,163.843236409608,"Removal and tying 2 or more hemorrhoid group","2013",1954
+"353","47142",3.24,224,"Removal of donor liver right lobe","2013",21
+"354","47146",2.125,112.5,"Preparation of donor liver for transplantation","2013",42
+"355","50949",2.10196078431373,110.196078431373,"Procedure of duct (ureter) using an endoscope","2013",264
+"356","50949",2.10196078431373,110.196078431373,"Urinary duct (ureter) procedure using an endoscope","2013",264
+"357","51990",2.71825396825397,171.825396825397,"Suture suspension of bladder canal (urethra) to control leakage using an endoscope","2013",699
+"358","534",2.82682521287852,182.682521287852,"Anesthesia for insertion or replace of pacing heart defibrillator","2013",20408
+"359","54200",2.17073170731707,117.073170731707,"Injection procedure to correct abnormally-thickened penile tissue","2013",95
+"360","54200",2.17073170731707,117.073170731707,"Injection procedure to correct abnormally thickened penile tissue","2013",95
+"361","560",2.11935828877005,111.935828877005,"Anesthesia for procedure on heart and great blood vessels","2013",26896
+"362","61860",4.09090909090909,309.090909090909,"Implantation of neurostimulator electrodes in brain","2013",13
+"363","64430",2.01362862010221,101.362862010221,"Injection of anesthetic agent, pudendal (external genital) nerve","2013",684
+"364","64505",2.48433734939759,148.433734939759,"Injection of anesthetic agent, trigeminal nerve bundle","2013",572
+"365","64566",2.4708276797829,147.08276797829,"Implantation of lower leg neurostimulator electrode","2013",872
+"366","64566",2.4708276797829,147.08276797829,"Implantation of lower leg neurostimulator electrode, accessed through the skin","2013",872
+"367","64611",2.29192546583851,129.192546583851,"Injection of chemical for destruction of salivary glands","2013",669
+"368","64611",2.29192546583851,129.192546583851,"Injection of chemical for destruction of salivary glands on both sides of the mouth","2013",669
+"369","64650",2.24324324324324,124.324324324324,"Injection of chemical for destruction of underarm sweat glands","2013",60
+"370","64868",2.06666666666667,106.666666666667,"Connection of nerves to restore function to the face","2013",38
+"371","65800",2.28998505231689,128.998505231689,"Aspiration of eye fluid for diagnosis","2013",1992
+"372","65800",2.28998505231689,128.998505231689,"Aspiration of eye fluid","2013",1992
+"373","65820",2.84415584415584,184.415584415584,"Incision to improve eye fluid flow","2013",125
+"374","66505",5,400,"Incision and drainage of eye fluid accumulation in iris","2013",28
+"375","69799",2.02439024390244,102.439024390244,"Middle ear procedure","2013",37
+"376","70310",5,400,"X-ray of teeth, less than full mouth","2013",13
+"377","70558",2.33333333333333,133.333333333333,"MRI scan of brain with contrast","2013",29
+"378","70558",2.33333333333333,133.333333333333,"MRI scan of brain with contrast, during open brain procedure","2013",29
+"379","75559",2.2,120,"MRI of heart with stress imaging","2013",47
+"380","75571",3.63426488456865,263.426488456865,"CT scan of heart with evaluation of blood vessel calcium","2013",2313
+"381","75572",2.08177881412392,108.177881412392,"CT scan of heart structure","2013",7806
+"382","75572",2.08177881412392,108.177881412392,"CT scan of heart structure with contrast","2013",7806
+"383","75807",2.96774193548387,196.774193548387,"Imaging of lymphatic tissue of pelvis and abdomen","2013",52
+"384","75807",2.96774193548387,196.774193548387,"Radiological supervision and interpretation of imaging of lymphatic system of both side of pelvis and abdomen","2013",52
+"385","76497",2.39393939393939,139.393939393939,"CT scan","2013",35
+"386","76977",3.25,225,"Ultrasound of bone density measurement","2013",11
+"387","77071",2.06917475728155,106.917475728155,"Imaging of joint with stressing by physician","2013",1135
+"388","77399",3.35294117647059,235.294117647059,"Management of radiation therapy","2013",117
+"389","77605",3.89189189189189,289.189189189189,"External hyperthermia treatment depth greater than 4 cm","2013",111
+"390","78492",2.05628502802242,105.628502802242,"Nuclear medicine study heart muscle at rest and/or stress multiple studies","2013",19999
+"391","78599",3.82352941176471,282.352941176471,"Nuclear medicine study of respiratory systems","2013",14
+"392","78999",4.71515151515151,371.515151515152,"Diagnostic nuclear medicine procedures","2013",331
+"393","79101",6.35030549898167,535.030549898167,"Radioactive material therapy into vein","2013",1607
+"394","79445",3.34122562674095,234.122562674095,"Radioactive material therapy into artery","2013",925
+"395","80048",2.95297555791711,195.297555791711,"Blood test, basic group of blood chemicals","2013",22407
+"396","80051",8.79329608938547,779.329608938547,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)","2013",471
+"397","80053",2.05715859030837,105.715859030837,"Blood test, comprehensive group of blood chemicals","2013",22977
+"398","80164",2.78105141536684,178.105141536684,"Dipropylacetic acid (valproic acid) level","2013",3909
+"399","80164",2.78105141536684,178.105141536684,"Valproic acid level","2013",3909
+"400","80188",6.07692307692308,507.692307692308,"Primidone level","2013",NA
+"401","80202",2.42380952380952,142.380952380952,"Vancomycin (antibiotic) level","2013",734
+"402","81000",2.30409356725146,130.409356725146,"Manual urinalysis test with examination using microscope","2013",407
+"403","81001",2.41611670719,141.611670719,"Manual urinalysis test with examination using microscope","2013",13771
+"404","81003",5.63970588235294,463.970588235294,"Automated urinalysis test","2013",380
+"405","82040",2.42893725992318,142.893725992318,"Albumin (protein) level","2013",2844
+"406","82043",3.57317073170732,257.317073170732,"Urine microalbumin (protein) level","2013",542
+"407","82140",3.65420560747664,265.420560747664,"Ammonia level","2013",527
+"408","82150",5.1744966442953,417.44966442953,"Amylase (enzyme) level","2013",483
+"409","82248",14.6258741258741,1362.58741258741,"Bilirubin level","2013",1502
+"410","82272",4.88732394366197,388.732394366197,"Stool analysis for blood","2013",74
+"411","82306",5.34606569900688,434.606569900688,"Vitamin D-3 level","2013",3872
+"412","82310",8.24096385542169,724.096385542169,"Calcium level","2013",200
+"413","82374",7.32352941176471,632.352941176471,"Carbon dioxide (bicarbonate) level","2013",22
+"414","82378",2.0126582278481,101.26582278481,"Carcinoembryonic antigen (CEA) protein level","2013",171
+"415","82435",7.35294117647059,635.294117647059,"Blood chloride level","2013",32
+"416","82533",6.15,515,"Cortisol (hormone) measurement","2013",NA
+"417","82550",3.82142857142857,282.142857142857,"Creatine kinase (cardiac enzyme) level","2013",674
+"418","82553",3.59090909090909,259.090909090909,"Creatine kinase (cardiac enzyme) level","2013",NA
+"419","82565",6.70444444444444,570.444444444444,"Blood creatinine level","2013",1378
+"420","82570",5.21212121212121,421.212121212121,"Creatinine level to test for kidney function or muscle injury","2013",471
+"421","82607",5.11826452064381,411.826452064381,"Cyanocobalamin (vitamin B-12) level","2013",4399
+"422","82668",6.8,580,"Erythropoietin (protein) level","2013",NA
+"423","82728",3.36763129689175,236.763129689175,"Ferritin (blood protein) level","2013",3210
+"424","82746",4.77328843995511,377.328843995511,"Folic acid level","2013",3031
+"425","82784",11.2857142857143,1028.57142857143,"Gammaglobulin (immune system protein) measurement","2013",NA
+"426","82803",4.36,336,"Blood gases measurement","2013",108
+"427","82947",9.96858638743456,896.858638743456,"Blood glucose (sugar) level","2013",568
+"428","82977",4.44,344,"Glutamyltransferase (liver enzyme) level","2013",43
+"429","83036",3.16638900458142,216.638900458142,"Hemoglobin A1C level","2013",10267
+"430","83520",2.90909090909091,190.909090909091,"Measurement of substance using immunoassay technique","2013",85
+"431","83540",3.65896487985213,265.896487985213,"Iron level","2013",3432
+"432","83550",3.46083550913838,246.083550913838,"Iron binding capacity","2013",2449
+"433","83615",3.10891089108911,210.891089108911,"Lactate dehydrogenase (enzyme) level","2013",215
+"434","83690",5.96240601503759,496.240601503759,"Lipase (fat enzyme) level","2013",471
+"435","83921",3,200,"Organic acid level","2013",NA
+"436","83935",5.45454545454545,445.454545454545,"Urine osmolality (concentration) measurement","2013",NA
+"437","84075",2.03448275862069,103.448275862069,"Phosphatase (enzyme) level","2013",297
+"438","84100",3.22765957446809,222.765957446809,"Phosphate level","2013",1661
+"439","84132",3.5968992248062,259.68992248062,"Blood potassium level","2013",1475
+"440","84146",4.72222222222222,372.222222222222,"Prolactin (milk producing hormone) level","2013",NA
+"441","84155",3.98540145985401,298.540145985401,"Total protein level, blood","2013",411
+"442","84156",3.63636363636364,263.636363636364,"Total protein level, urine","2013",NA
+"443","84295",7.31325301204819,631.325301204819,"Blood sodium level","2013",277
+"444","84300",5.53846153846154,453.846153846154,"Urine sodium level","2013",NA
+"445","84403",5.33333333333333,433.333333333333,"Testosterone (hormone) level","2013",NA
+"446","84436",3.48815165876777,248.815165876777,"Thyroxine (thyroid chemical) measurement","2013",1952
+"447","84439",5.28132387706856,428.132387706856,"Thyroxine (thyroid chemical) measurement","2013",2451
+"448","84443",3.27193548387097,227.193548387097,"Blood test, thyroid stimulating hormone (TSH)","2013",15528
+"449","84450",3.89285714285714,289.285714285714,"Liver enzyme (SGOT), level","2013",563
+"450","84460",3.29428571428571,229.428571428571,"Liver enzyme (SGPT), level","2013",1062
+"451","84466",2.71544715447154,171.544715447154,"Transferrin (iron binding protein) level","2013",484
+"452","84479",3.63257575757576,263.257575757576,"Thyroid hormone evaluation","2013",1162
+"453","84480",7.99090909090909,699.090909090909,"Thyroid hormone, T3 measurement","2013",NA
+"454","84481",3.22516556291391,222.516556291391,"Thyroid hormone, T3 measurement","2013",372
+"455","84520",8.53511705685619,753.511705685619,"Urea nitrogen level to assess kidney function","2013",876
+"456","84550",5.39951573849879,439.951573849879,"Uric acid level, blood","2013",1544
+"457","85007",24.0574712643678,2305.74712643678,"Microscopic examination for white blood cells with manual cell count","2013",129
+"458","85014",3.8734693877551,287.34693877551,"Red blood cell concentration measurement","2013",1313
+"459","85018",3.68681318681319,268.681318681319,"Hemoglobin measurement","2013",1518
+"460","85025",2.34816993464052,134.816993464052,"Complete blood cell count (red cells, white blood cell, platelets), automated test","2013",33658
+"461","85027",65.2568306010929,6425.68306010929,"Complete blood cell count (red cells, white blood cell, platelets), automated test","2013",365
+"462","85045",13.75,1275,"Red blood count, automated test","2013",NA
+"463","85652",2.51851851851852,151.851851851852,"Red blood cell sedimentation rate, to detect inflammation","2013",541
+"464","85730",2.6241610738255,162.41610738255,"Coagulation assessment blood test","2013",1150
+"465","86038",5.02702702702703,402.702702702703,"Screening test for autoimmune disorder","2013",NA
+"466","86039",3.63636363636364,263.636363636364,"Measurement of antibody for assessment of autoimmune disorder","2013",NA
+"467","86140",3.7344398340249,273.44398340249,"Measurement C-reactive protein for detection of infection or inflammation","2013",777
+"468","86300",2.25,125,"Immunologic analysis for detection of tumor antigen","2013",NA
+"469","86431",13.4166666666667,1241.66666666667,"Rheumatoid factor level","2013",NA
+"470","87040",2.89225589225589,189.225589225589,"Bacterial blood culture","2013",951
+"471","87046",20.5333333333333,1953.33333333333,"Stool culture","2013",NA
+"472","87071",52.2777777777778,5127.77777777778,"Bacterial culture and colony count","2013",12
+"473","87081",3.86842105263158,286.842105263158,"Screening test for pathogenic organisms","2013",347
+"474","87086",2.51724754244861,151.724754244861,"Bacterial colony count, urine","2013",12811
+"475","87147",16.7857142857143,1578.57142857143,"Identification of organisms by immunologic analysis","2013",NA
+"476","87177",7.06451612903226,606.451612903226,"Smear for parasites","2013",NA
+"477","87184",36.5333333333333,3553.33333333333,"Evaluation of antimicrobial drug (antibiotic, antifungal, antiviral)","2013",NA
+"478","87205",4.81976744186047,381.976744186047,"Special stain for microorganism","2013",974
+"479","87804",19.3,1830,"Detection test for Influenza virus","2013",76
+"480","87804",19.3,1830,"Detection test for influenza virus","2013",76
+"481","88142",2.9125,191.25,"Pap test (Pap smear)","2013",26
+"482","88356",2.5,150,"Microscopic genetic analysis of nerve tissue","2013",163
+"483","90662",3.09826589595376,209.826589595376,"Vaccine for influenza injection","2013",1140
+"484","90662",3.09826589595376,209.826589595376,"Vaccine for influenza for injection into muscle","2013",1140
+"485","90670",38.8299319727891,3782.99319727891,"Pneumococcal vaccine for injection","2013",458
+"486","90670",38.8299319727891,3782.99319727891,"Pneumococcal vaccine for injection into muscle","2013",458
+"487","90867",2.59375,159.375,"Transcranial magnetic stimulation initial mapping motor threshold determination delivery and management","2013",41
+"488","90867",2.59375,159.375,"Transcranial magnetic stimulation treatment (stimulates nerve cells in brain to improve symptoms of depression)","2013",41
+"489","90868",4.57377049180328,357.377049180328,"Transcranial magnetic stimulation subsequent delivery and management per session","2013",92
+"490","90868",4.57377049180328,357.377049180328,"Transcranial magnetic stimulation treatment (stimulates nerve cells in brain to improve symptoms of depression), per session","2013",92
+"491","90993",2.46666666666667,146.666666666667,"Dialysis training, patient helper, course not completed","2013",33
+"492","91037",2.13853258081067,113.853258081067,"Monitoring of gastroesophageal reflux including analysis and interpretation","2013",2862
+"493","91132",6.76923076923077,576.923076923077,"Recording of gastrointestinal electrical activity of stomach","2013",21
+"494","92140",2.75961538461538,175.961538461538,"Glaucoma testing of eye fluid pressure","2013",95
+"495","92283",2.03636363636364,103.636363636364,"Extended color vision examination","2013",159
+"496","92284",2.11392405063291,111.392405063291,"Evaluation of eye adaptation to light and dark (rods and cones)","2013",174
+"497","92499",4,300,"Service or surgery of the eye","2013",61
+"498","92507",20,1900,"Treatment of speech, language, voice, communication, or hearing processing disorder","2013",NA
+"499","92507",20,1900,"Treatment of speech, language, voice, communication, and/or hearing processing disorder","2013",NA
+"500","92526",2.11111111111111,111.111111111111,"Treatment of swallowing or oral feeding function","2013",84
+"501","92526",2.11111111111111,111.111111111111,"Treatment of swallowing and/or oral feeding function","2013",84
+"502","92547",2.34375,134.375,"Use of vertical electrodes during eye or balance evaluation","2013",34
+"503","92552",2.03448275862069,103.448275862069,"Pure tone air conduction threshold hearing assessment","2013",136
+"504","92556",4.88,388,"Assessment of hearing loss and speech recognition","2013",133
+"505","92567",2.01589682063587,101.589682063587,"Eardrum testing using ear probe","2013",8374
+"506","92604",2.08636363636364,108.636363636364,"Analysis and subsequent reprogramming of inner ear (cochlear) implant, patient age 7 years or older","2013",256
+"507","92604",2.08636363636364,108.636363636364,"Analysis and reprogramming of inner ear (cochlear) implant, patient age 7 years or older","2013",256
+"508","92626",4.10648148148148,310.648148148148,"Evaluation of hearing rehabilitation","2013",594
+"509","92626",4.10648148148148,310.648148148148,"Evaluation of hearing rehabilitation first hour","2013",594
+"510","92997",2.5,150,"Balloon catheter opening of major lung artery (pulmonary)","2013",100
+"511","92997",2.5,150,"Balloon catheter opening of major lung artery (pulmonary), accessed through the skin","2013",100
+"512","93000",2.05601659751037,105.601659751037,"Routine EKG using at least 12 leads including interpretation and report","2013",10358
+"513","93040",2.68421052631579,168.421052631579,"Tracing of electrical activity of heart using 1-3 leads with interpretation and report","2013",90
+"514","93285",2.47547797173732,147.547797173732,"Evaluation, testing, and programming adjustment of implantable, patient activated heart recorder system including physician analysis, review, and report","2013",1691
+"515","93291",2.62696522153406,162.696522153406,"Evaluation of implantable heart recorder system including physician analysis, review, and report","2013",2746
+"516","93298",6.61423220973783,561.423220973783,"Remote evaluation of implantable heart recorder system including physician analysis, review, and report up to 30 days","2013",1851
+"517","93298",6.61423220973783,561.423220973783,"Remote evaluations of implantable heart recorder system including physician analysis, review, and report up to 30 days","2013",1851
+"518","93750",2.70669698222406,170.669698222406,"Evaluation of lower heart chamber assist device with physician analysis","2013",7509
+"519","93998",3,200,"Noninvasive vascular diagnostic study","2013",85
+"520","94452",2.19075144508671,119.075144508671,"Testing of lung function at high altitude","2013",265
+"521","94453",2.62307692307692,162.307692307692,"Testing of lung function at high altitude with supplemental oxygen delivery","2013",181
+"522","94770",4.65116279069767,365.116279069767,"Measurement of exhaled carbon dioxide gas","2013",143
+"523","95145",2.18181818181818,118.181818181818,"Preparation and provision of single stinging insect venom for allergen immunotherapy","2013",37
+"524","95147",2.95454545454545,195.454545454545,"Preparation and provision of 3 single stinging insect venom for allergen immunotherapy","2013",26
+"525","95148",2.8125,181.25,"Preparation and provision of 4 single stinging insect venom for allergen immunotherapy","2013",20
+"526","95800",6.09567901234568,509.567901234568,"Study of sleep patterns","2013",698
+"527","95801",4.45454545454545,345.454545454545,"Study of sleep patterns","2013",73
+"528","95806",5.31466395112016,431.466395112016,"Unattended sleep study with recording of heart rate, oxygen, respiratory airflow and effort","2013",4476
+"529","95834",2.11111111111111,111.111111111111,"Manual muscle testing of whole body including hands","2013",87
+"530","95981",2.58426966292135,158.426966292135,"Electronic analysis of implanted gastric neurostimulator generator or transmitter","2013",144
+"531","95982",2.17532467532468,117.532467532468,"Electronic analysis and programming of implanted gastric neurostimulator generator or transmitter","2013",220
+"532","96111",2.91666666666667,191.666666666667,"Developmental testing","2013",13
+"533","96920",2.21739130434783,121.739130434783,"Laser treatment (total area less than 250 sq centimeters) for inflammatory skin disease","2013",122
+"534","96922",2.92857142857143,192.857142857143,"Laser treatment (over 500 sq centimeters) for inflammatory skin disease","2013",27
+"535","97762",2.2972972972973,129.72972972973,"Evaluation of orthotic or prosthetic use, each 15 minutes","2013",84
+"536","98929",2.08991494532199,108.991494532199,"Osteopathic manipulative treatment to 9-10 body regions","2013",1171
+"537","G0009",3.03024830699774,203.024830699774,"Administration of pneumococcal vaccine","2013",2206
+"538","G0108",2.11767866738313,111.767866738313,"Diabetes outpatient self-management training services, individual, per 30 minutes","2013",2975
+"539","G0389",2.39750273540581,139.750273540581,"Ultrasound b-scan and/or real time with image documentation; for abdominal aortic aneurysm (aaa) screening","2013",21141
+"540","G0398",2.93548387096774,193.548387096774,"Home sleep study test (hst) with type ii portable monitor, unattended; minimum of 7 channels: eeg, eog, emg, ecg/heart rate, airflow, respiratory effort and oxygen saturation","2013",43
+"541","G0399",12.7142857142857,1171.42857142857,"Home sleep test (hst) with type iii portable monitor, unattended; minimum of 4 channels: 2 respiratory movement/airflow, 1 ecg/heart rate and 1 oxygen saturation","2013",506
+"542","G0400",3.94117647058824,294.117647058824,"Home sleep test (hst) with type iv portable monitor, unattended; minimum of 3 channels","2013",47
+"543","G0407",2.7906976744186,179.06976744186,"Follow-up inpatient consultation, intermediate, physicians typically spend 25 minutes communicating with the patient via telehealth","2013",1609
+"544","G0408",4.65714285714286,365.714285714286,"Follow-up inpatient consultation, complex, physicians typically spend 35 minutes communicating with the patient via telehealth","2013",919
+"545","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examination for prostate needle saturation biopsy sampling, 1-20 specimens","2013",3482
+"546","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examinations for prostate needle saturation biopsy sampling, 10-20 specimens","2013",3482
+"547","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examinations, for prostate needle biopsy, any method, 10-20 specimens","2013",3482
+"548","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examinations, for prostate needle biopsy, any method","2013",3482
+"549","G0424",2.08333333333333,108.333333333333,"Pulmonary rehabilitation, including exercise (includes monitoring), one hour, per session, up to two sessions per day","2013",71
+"550","G0425",5.18165938864629,418.165938864629,"Telehealth consultation, emergency department or initial inpatient, typically 30 minutes communicating with the patient via telehealth","2013",1661
+"551","G0426",2.75485188968335,175.485188968335,"Telehealth consultation, emergency department or initial inpatient, typically 50 minutes communicating with the patient via telehealth","2013",1670
+"552","G0427",2.53678077203205,153.678077203205,"Telehealth consultation, emergency department or initial inpatient, typically 70 minutes or more communicating with the patient via telehealth","2013",2055
+"553","G0437",2.61183431952663,161.183431952663,"Smoking and tobacco cessation counseling visit for the asymptomatic patient; intensive, greater than 10 minutes","2013",1477
+"554","G0439",3.88804715127701,288.804715127701,"Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit","2013",129941
+"555","G0442",5.00892857142857,400.892857142857,"Annual alcohol misuse screening, 15 minutes","2013",1398
+"556","G0444",11.5133689839572,1051.33689839572,"Annual depression screening, 15 minutes","2013",929
+"557","G0446",3.29059829059829,229.059829059829,"Intensive behavioral therapy to reduce cardiovascular disease risk, individual, face-to-face, bi-annual, 15 minutes","2013",110
+"558","G0446",3.29059829059829,229.059829059829,"Annual, face-to-face intensive behavioral therapy for cardiovascular disease, individual, 15 minutes","2013",110
+"559","J0585",7.93800539083558,693.800539083558,"Injection, onabotulinumtoxina, 1 unit","2013",1206
+"560","J0696",2.70769230769231,170.769230769231,"Injection, ceftriaxone sodium, per 250 mg","2013",209
+"561","J0702",2.33333333333333,133.333333333333,"Injection, betamethasone acetate 3mg and betamethasone sodium phosphate 3mg","2013",127
+"562","J1020",3.57894736842105,257.894736842105,"Injection, methylprednisolone acetate, 20 mg","2013",91
+"563","J1030",2.02912621359223,102.912621359223,"Injection, methylprednisolone acetate, 40 mg","2013",654
+"564","J1885",4.32394366197183,332.394366197183,"Injection, ketorolac tromethamine, per 15 mg","2013",240
+"565","J2785",2.5,150,"Injection, regadenoson, 0.1 mg","2013",NA
+"566","J2785",2.5,150,"Injection, regadenoson, 0. 1 mg","2013",NA
+"567","J2920",2.14285714285714,114.285714285714,"Injection, methylprednisolone sodium succinate, up to 40 mg","2013",37
+"568","J2930",29.125,2812.5,"Injection, methylprednisolone sodium succinate, up to 125 mg","2013",24
+"569","J3010",18.5909090909091,1759.09090909091,"Injection, fentanyl citrate, 0.1 mg","2013",37
+"570","J3010",18.5909090909091,1759.09090909091,"Injection, fentanyl citrate, 0. 1 mg","2013",37
+"571","J7323",3.5,250,"Hyaluronan or derivative, euflexxa, for intra-articular injection, per dose","2013",53
+"572","J7324",3.75806451612903,275.806451612903,"Hyaluronan or derivative, orthovisc, for intra-articular injection, per dose","2013",65
+"573","J7620",4.32727272727273,332.727272727273,"Albuterol, up to 2.5 mg and ipratropium bromide, up to 0.5 mg, fda-approved final product, non-compounded, administered through dme","2013",48
+"574","J7620",4.32727272727273,332.727272727273,"Albuterol, up to 2. 5 mg and ipratropium bromide, up to 0. 5 mg, fda-approved final product, non-compounded, administered through dme","2013",48
+"575","P9603",2.28250141394874,128.250141394874,"Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled.","2013",86932
+"576","P9603",2.28250141394874,128.250141394874,"Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled","2013",86932
+"577","Q3014",108,10700,"Telehealth originating site facility fee","2013",535
+"578","Q4038",2.125,112.5,"Cast supplies, short leg cast, adult (11 years +), fiberglass","2013",32
+"579","Q4110",5.30769230769231,430.769230769231,"Primatrix, per square centimeter","2013",34
+"580","Q9965",18.3636363636364,1736.36363636364,"Low osmolar contrast material, 100-199 mg/ml iodine concentration, per ml","2013",117
+"581","0159T",3.24659653465347,224.659653465347,"Computer-aided detection and computer algorithm analysis of breast MRI image data","2014",10043
+"582","0191T",59.1206030150754,5812.06030150754,"Internal insertion of eye fluid drainage device","2014",22774
+"583","0249T",2.37724550898204,137.724550898204,"Suturing hemorrhoids using ultrasound guidance","2014",362
+"584","0281T",6.26086956521739,526.086956521739,"Catheter-delivered implant to left upper heart chamber for appendage closure using imaging","2014",71
+"585","0281T",6.26086956521739,526.086956521739,"Radiological supervision and interpretation of catheter-delivered implant (accessed through the skin) to left upper heart chamber for appendage closure","2014",71
+"586","0297T",2.62162162162162,162.162162162162,"Ext ecg scan w/report","2014",77
+"587","0297T",2.62162162162162,162.162162162162,"Analysis and report of external EKG recording for more than 48 hours up to 21 days","2014",77
+"588","0298T",7.70022497187851,670.022497187852,"Ext ecg review and interp","2014",8187
+"589","0298T",7.70022497187851,670.022497187852,"Review and interpretation of external EKG recording for more than 48 hours up to 21 days","2014",8187
+"590","0308T",6.23076923076923,523.076923076923,"Insj ocular telescope prosth","2014",37
+"591","0308T",6.23076923076923,523.076923076923,"Insertion of prosthetic telescope in eye for the treatment of central vision","2014",37
+"592","102",2.33707865168539,133.707865168539,"Anesthesia for procedure to repair lip defect present at birth","2014",46
+"593","11980",2.0337552742616,103.37552742616,"Insertion of hormone pellets into tissue","2014",492
+"594","11980",2.0337552742616,103.37552742616,"Insertion of hormone pellets beneath the skin","2014",492
+"595","15110",3.57142857142857,257.142857142857,"Skin graft at trunk, arms, or legs (first 100 sq cm or less, or 1% body area of infants and children)","2014",938
+"596","15860",2.25739320920044,125.739320920044,"Injection of agent into vein to assess blood flow of skin graft or flap","2014",1697
+"597","15877",2.125,112.5,"Suction assisted removal of fat from trunk","2014",24
+"598","17108",3.2,220,"Destruction of skin growth (over 50.0 sq centimeters)","2014",198
+"599","1925",2.1864406779661,118.64406779661,"Anesthesia for X-ray procedure on neck or heart artery","2014",9778
+"600","1933",2.07142857142857,107.142857142857,"Anesthesia for X-ray procedure of brain vein or lymph system","2014",130
+"601","1933",2.07142857142857,107.142857142857,"Anesthesia for X-ray procedure on brain vein","2014",130
+"602","20500",2.54166666666667,154.166666666667,"Injection for repair of abnormal muscle drainage tract","2014",1037
+"603","20982",3.12977099236641,212.977099236641,"Destruction of bone growth using CT guidance","2014",272
+"604","20982",3.12977099236641,212.977099236641,"Destruction of bone growths using CT guidance, accessed through the skin","2014",272
+"605","20982",3.12977099236641,212.977099236641,"Destruction of 1 or more bone growths accessed through the skin","2014",272
+"606","21445",3.88461538461538,288.461538461538,"Open surgical treatment of broken jaw or cheek bone","2014",72
+"607","21445",3.88461538461538,288.461538461538,"Open treatment of broken jaw or cheek bone","2014",72
+"608","22856",4.39285714285714,339.285714285714,"Insertion of artificial spine disc","2014",408
+"609","22856",4.39285714285714,339.285714285714,"Insertion of artificial upper spine disc, anterior approach","2014",408
+"610","24301",2.32549019607843,132.549019607843,"Relocation of muscle or tendon of upper arm or elbow","2014",233
+"611","25430",2.18181818181818,118.181818181818,"Insertion of vascular bone graft into wrist bone","2014",24
+"612","27391",2.16438356164384,116.438356164384,"Repair of multiple hamstring tendons","2014",83
+"613","27391",2.16438356164384,116.438356164384,"Repair of multiple hamstring tendons, open procedure","2014",83
+"614","27394",2.73263888888889,173.263888888889,"Lengthening of multiple hamstring tendons in one leg","2014",662
+"615","27443",3.26666666666667,226.666666666667,"Repair of knee joint","2014",83
+"616","29086",2.41666666666667,141.666666666667,"Application of cast to finger","2014",NA
+"617","29851",2.66666666666667,166.666666666667,"Treatment of knee joint fracture with assistance of an endoscope","2014",27
+"618","29851",2.66666666666667,166.666666666667,"Treatment of knee joint fractures with assistance of an endoscope with fixation","2014",27
+"619","29855",3.49469964664311,249.469964664311,"Treatment of broken leg bone with assistance of an endoscope","2014",718
+"620","29856",2.32142857142857,132.142857142857,"Treatment of broken leg bone with assistance of an endoscope","2014",40
+"621","31297",2.00875273522976,100.875273522976,"Dilation of nasal sinus using an endoscope","2014",736
+"622","31627",2.07420573205954,107.420573205954,"Computer-assisted image-guided navigation of lung airways using an endoscope","2014",7838
+"623","31760",2.61538461538462,161.538461538462,"Repair of windpipe cartilage by insertion of splint or graft","2014",37
+"624","33229",2.19278996865204,119.278996865204,"Removal and replacement of multiple lead permanent pacemaker pulse generator","2014",3130
+"625","33282",3.66973574076288,266.973574076288,"Implantation of long-term patient-activated heart monitoring device","2014",21860
+"626","33282",3.66973574076288,266.973574076288,"Implantation patient-activated heart monitoring device","2014",21860
+"627","33982",5.90909090909091,490.909090909091,"Replacement of lower heart chamber assistive blood flow device","2014",46
+"628","33982",5.90909090909091,490.909090909091,"Replacement of lower heart chamber assistive blood flow devices","2014",46
+"629","38242",2.02702702702703,102.702702702703,"Transplantation of donor stem cells from bone marrow or blood with infusion of donor white blood cells","2014",141
+"630","38794",2.53333333333333,153.333333333333,"Exposure of lymph node of chest cavity","2014",35
+"631","42200",2.30769230769231,130.769230769231,"Repair of defect of roof of mouth","2014",24
+"632","43237",10.7932960893855,979.329608938547,"Examination of esophagus, stomach, and upper small bowel using an endoscope","2014",5384
+"633","43237",10.7932960893855,979.329608938547,"Ultrasound examination of esophagus, stomach, and/or upper small bowel using an endoscope","2014",5384
+"634","43238",11.025787965616,1002.5787965616,"Ultrasound guided needle aspiration or biopsies of esophagus using an endoscope","2014",4022
+"635","43257",4.31818181818182,331.818181818182,"Heat delivery to muscle at esophagus and stomach to treat gastrict reflux using an endoscope","2014",216
+"636","43257",4.31818181818182,331.818181818182,"Heat delivery to muscle at esophagus and stomach to treat gastric reflux using an endoscope","2014",216
+"637","43257",4.31818181818182,331.818181818182,"Heat delivery to muscle at esophagus and/or stomach to treat gastric reflux using an endoscope","2014",216
+"638","43496",2.08333333333333,108.333333333333,"Relocation of upper small bowel","2014",30
+"639","43775",25.4505494505494,2445.05494505494,"Stomach bypass procedure with partial removal of stomach using an endoscope","2014",14448
+"640","43775",25.4505494505494,2445.05494505494,"Stomach reduction procedure with partial removal of stomach using an endoscope","2014",14448
+"641","46744",2.53846153846154,153.846153846154,"Repair of defect for single channel outlet of rectum, vagina, and urinary tract","2014",19
+"642","46946",2.63843236409608,163.843236409608,"Removal and tying 2 or more hemorrhoid group","2014",2636
+"643","47142",3.24,224,"Removal of donor liver right lobe","2014",38
+"644","47146",2.125,112.5,"Preparation of donor liver for transplantation","2014",80
+"645","50949",2.10196078431373,110.196078431373,"Procedure of duct (ureter) using an endoscope","2014",390
+"646","50949",2.10196078431373,110.196078431373,"Urinary duct (ureter) procedure using an endoscope","2014",390
+"647","51990",2.71825396825397,171.825396825397,"Suture suspension of bladder canal (urethra) to control leakage using an endoscope","2014",989
+"648","534",2.82682521287852,182.682521287852,"Anesthesia for insertion or replace of pacing heart defibrillator","2014",20104
+"649","54200",2.17073170731707,117.073170731707,"Injection procedure to correct abnormally-thickened penile tissue","2014",145
+"650","54200",2.17073170731707,117.073170731707,"Injection procedure to correct abnormally thickened penile tissue","2014",145
+"651","560",2.11935828877005,111.935828877005,"Anesthesia for procedure on heart and great blood vessels","2014",31688
+"652","61860",4.09090909090909,309.090909090909,"Implantation of neurostimulator electrodes in brain","2014",21
+"653","64430",2.01362862010221,101.362862010221,"Injection of anesthetic agent, pudendal (external genital) nerve","2014",1003
+"654","64505",2.48433734939759,148.433734939759,"Injection of anesthetic agent, trigeminal nerve bundle","2014",752
+"655","64566",2.4708276797829,147.08276797829,"Implantation of lower leg neurostimulator electrode","2014",1033
+"656","64566",2.4708276797829,147.08276797829,"Implantation of lower leg neurostimulator electrode, accessed through the skin","2014",1033
+"657","64611",2.29192546583851,129.192546583851,"Injection of chemical for destruction of salivary glands","2014",904
+"658","64611",2.29192546583851,129.192546583851,"Injection of chemical for destruction of salivary glands on both sides of the mouth","2014",904
+"659","64650",2.24324324324324,124.324324324324,"Injection of chemical for destruction of underarm sweat glands","2014",67
+"660","64868",2.06666666666667,106.666666666667,"Connection of nerves to restore function to the face","2014",41
+"661","65800",2.28998505231689,128.998505231689,"Aspiration of eye fluid for diagnosis","2014",1793
+"662","65800",2.28998505231689,128.998505231689,"Aspiration of eye fluid","2014",1793
+"663","65820",2.84415584415584,184.415584415584,"Incision to improve eye fluid flow","2014",127
+"664","66505",5,400,"Incision and drainage of eye fluid accumulation in iris","2014",46
+"665","69799",2.02439024390244,102.439024390244,"Middle ear procedure","2014",55
+"666","70310",5,400,"X-ray of teeth, less than full mouth","2014",36
+"667","70558",2.33333333333333,133.333333333333,"MRI scan of brain with contrast","2014",31
+"668","70558",2.33333333333333,133.333333333333,"MRI scan of brain with contrast, during open brain procedure","2014",31
+"669","75559",2.2,120,"MRI of heart with stress imaging","2014",67
+"670","75571",3.63426488456865,263.426488456865,"CT scan of heart with evaluation of blood vessel calcium","2014",4404
+"671","75572",2.08177881412392,108.177881412392,"CT scan of heart structure","2014",10236
+"672","75572",2.08177881412392,108.177881412392,"CT scan of heart structure with contrast","2014",10236
+"673","75807",2.96774193548387,196.774193548387,"Imaging of lymphatic tissue of pelvis and abdomen","2014",78
+"674","75807",2.96774193548387,196.774193548387,"Radiological supervision and interpretation of imaging of lymphatic system of both side of pelvis and abdomen","2014",78
+"675","76497",2.39393939393939,139.393939393939,"CT scan","2014",43
+"676","76977",3.25,225,"Ultrasound of bone density measurement","2014",28
+"677","77071",2.06917475728155,106.917475728155,"Imaging of joint with stressing by physician","2014",1451
+"678","77399",3.35294117647059,235.294117647059,"Management of radiation therapy","2014",168
+"679","77605",3.89189189189189,289.189189189189,"External hyperthermia treatment depth greater than 4 cm","2014",128
+"680","78492",2.05628502802242,105.628502802242,"Nuclear medicine study heart muscle at rest and/or stress multiple studies","2014",24500
+"681","78599",3.82352941176471,282.352941176471,"Nuclear medicine study of respiratory systems","2014",106
+"682","78999",4.71515151515151,371.515151515152,"Diagnostic nuclear medicine procedures","2014",713
+"683","79101",6.35030549898167,535.030549898167,"Radioactive material therapy into vein","2014",3093
+"684","79445",3.34122562674095,234.122562674095,"Radioactive material therapy into artery","2014",1861
+"685","80048",2.95297555791711,195.297555791711,"Blood test, basic group of blood chemicals","2014",17489
+"686","80051",8.79329608938547,779.329608938547,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)","2014",381
+"687","80053",2.05715859030837,105.715859030837,"Blood test, comprehensive group of blood chemicals","2014",10218
+"688","80164",2.78105141536684,178.105141536684,"Dipropylacetic acid (valproic acid) level","2014",556
+"689","80164",2.78105141536684,178.105141536684,"Valproic acid level","2014",556
+"690","80188",6.07692307692308,507.692307692308,"Primidone level","2014",NA
+"691","80202",2.42380952380952,142.380952380952,"Vancomycin (antibiotic) level","2014",388
+"692","81000",2.30409356725146,130.409356725146,"Manual urinalysis test with examination using microscope","2014",547
+"693","81001",2.41611670719,141.611670719,"Manual urinalysis test with examination using microscope","2014",4405
+"694","81003",5.63970588235294,463.970588235294,"Automated urinalysis test","2014",725
+"695","82040",2.42893725992318,142.893725992318,"Albumin (protein) level","2014",1606
+"696","82043",3.57317073170732,257.317073170732,"Urine microalbumin (protein) level","2014",103
+"697","82140",3.65420560747664,265.420560747664,"Ammonia level","2014",158
+"698","82150",5.1744966442953,417.44966442953,"Amylase (enzyme) level","2014",126
+"699","82248",14.6258741258741,1362.58741258741,"Bilirubin level","2014",1091
+"700","82272",4.88732394366197,388.732394366197,"Stool analysis for blood","2014",84
+"701","82306",5.34606569900688,434.606569900688,"Vitamin D-3 level","2014",789
+"702","82310",8.24096385542169,724.096385542169,"Calcium level","2014",128
+"703","82374",7.32352941176471,632.352941176471,"Carbon dioxide (bicarbonate) level","2014",34
+"704","82378",2.0126582278481,101.26582278481,"Carcinoembryonic antigen (CEA) protein level","2014",58
+"705","82435",7.35294117647059,635.294117647059,"Blood chloride level","2014",35
+"706","82533",6.15,515,"Cortisol (hormone) measurement","2014",NA
+"707","82550",3.82142857142857,282.142857142857,"Creatine kinase (cardiac enzyme) level","2014",356
+"708","82553",3.59090909090909,259.090909090909,"Creatine kinase (cardiac enzyme) level","2014",NA
+"709","82565",6.70444444444444,570.444444444444,"Blood creatinine level","2014",1087
+"710","82570",5.21212121212121,421.212121212121,"Creatinine level to test for kidney function or muscle injury","2014",137
+"711","82607",5.11826452064381,411.826452064381,"Cyanocobalamin (vitamin B-12) level","2014",1317
+"712","82668",6.8,580,"Erythropoietin (protein) level","2014",NA
+"713","82728",3.36763129689175,236.763129689175,"Ferritin (blood protein) level","2014",1197
+"714","82746",4.77328843995511,377.328843995511,"Folic acid level","2014",445
+"715","82784",11.2857142857143,1028.57142857143,"Gammaglobulin (immune system protein) measurement","2014",45
+"716","82803",4.36,336,"Blood gases measurement","2014",275
+"717","82947",9.96858638743456,896.858638743456,"Blood glucose (sugar) level","2014",687
+"718","82977",4.44,344,"Glutamyltransferase (liver enzyme) level","2014",12
+"719","83036",3.16638900458142,216.638900458142,"Hemoglobin A1C level","2014",1867
+"720","83520",2.90909090909091,190.909090909091,"Measurement of substance using immunoassay technique","2014",78
+"721","83540",3.65896487985213,265.896487985213,"Iron level","2014",1469
+"722","83550",3.46083550913838,246.083550913838,"Iron binding capacity","2014",1123
+"723","83615",3.10891089108911,210.891089108911,"Lactate dehydrogenase (enzyme) level","2014",160
+"724","83690",5.96240601503759,496.240601503759,"Lipase (fat enzyme) level","2014",73
+"725","83921",3,200,"Organic acid level","2014",NA
+"726","83935",5.45454545454545,445.454545454545,"Urine osmolality (concentration) measurement","2014",NA
+"727","84075",2.03448275862069,103.448275862069,"Phosphatase (enzyme) level","2014",133
+"728","84100",3.22765957446809,222.765957446809,"Phosphate level","2014",983
+"729","84132",3.5968992248062,259.68992248062,"Blood potassium level","2014",1065
+"730","84146",4.72222222222222,372.222222222222,"Prolactin (milk producing hormone) level","2014",30
+"731","84155",3.98540145985401,298.540145985401,"Total protein level, blood","2014",208
+"732","84156",3.63636363636364,263.636363636364,"Total protein level, urine","2014",46
+"733","84295",7.31325301204819,631.325301204819,"Blood sodium level","2014",240
+"734","84300",5.53846153846154,453.846153846154,"Urine sodium level","2014",NA
+"735","84403",5.33333333333333,433.333333333333,"Testosterone (hormone) level","2014",20
+"736","84436",3.48815165876777,248.815165876777,"Thyroxine (thyroid chemical) measurement","2014",882
+"737","84439",5.28132387706856,428.132387706856,"Thyroxine (thyroid chemical) measurement","2014",370
+"738","84443",3.27193548387097,227.193548387097,"Blood test, thyroid stimulating hormone (TSH)","2014",8630
+"739","84450",3.89285714285714,289.285714285714,"Liver enzyme (SGOT), level","2014",349
+"740","84460",3.29428571428571,229.428571428571,"Liver enzyme (SGPT), level","2014",610
+"741","84466",2.71544715447154,171.544715447154,"Transferrin (iron binding protein) level","2014",48
+"742","84479",3.63257575757576,263.257575757576,"Thyroid hormone evaluation","2014",495
+"743","84480",7.99090909090909,699.090909090909,"Thyroid hormone, T3 measurement","2014",65
+"744","84481",3.22516556291391,222.516556291391,"Thyroid hormone, T3 measurement","2014",26
+"745","84520",8.53511705685619,753.511705685619,"Urea nitrogen level to assess kidney function","2014",683
+"746","84550",5.39951573849879,439.951573849879,"Uric acid level, blood","2014",902
+"747","85007",24.0574712643678,2305.74712643678,"Microscopic examination for white blood cells with manual cell count","2014",216
+"748","85014",3.8734693877551,287.34693877551,"Red blood cell concentration measurement","2014",966
+"749","85018",3.68681318681319,268.681318681319,"Hemoglobin measurement","2014",1053
+"750","85025",2.34816993464052,134.816993464052,"Complete blood cell count (red cells, white blood cell, platelets), automated test","2014",24481
+"751","85027",65.2568306010929,6425.68306010929,"Complete blood cell count (red cells, white blood cell, platelets), automated test","2014",1436
+"752","85045",13.75,1275,"Red blood count, automated test","2014",148
+"753","85652",2.51851851851852,151.851851851852,"Red blood cell sedimentation rate, to detect inflammation","2014",55
+"754","85730",2.6241610738255,162.41610738255,"Coagulation assessment blood test","2014",149
+"755","86038",5.02702702702703,402.702702702703,"Screening test for autoimmune disorder","2014",25
+"756","86039",3.63636363636364,263.636363636364,"Measurement of antibody for assessment of autoimmune disorder","2014",NA
+"757","86140",3.7344398340249,273.44398340249,"Measurement C-reactive protein for detection of infection or inflammation","2014",104
+"758","86300",2.25,125,"Immunologic analysis for detection of tumor antigen","2014",NA
+"759","86431",13.4166666666667,1241.66666666667,"Rheumatoid factor level","2014",23
+"760","87040",2.89225589225589,189.225589225589,"Bacterial blood culture","2014",541
+"761","87046",20.5333333333333,1953.33333333333,"Stool culture","2014",34
+"762","87071",52.2777777777778,5127.77777777778,"Bacterial culture and colony count","2014",118
+"763","87081",3.86842105263158,286.842105263158,"Screening test for pathogenic organisms","2014",999
+"764","87086",2.51724754244861,151.724754244861,"Bacterial colony count, urine","2014",2319
+"765","87147",16.7857142857143,1578.57142857143,"Identification of organisms by immunologic analysis","2014",28
+"766","87177",7.06451612903226,606.451612903226,"Smear for parasites","2014",16
+"767","87184",36.5333333333333,3553.33333333333,"Evaluation of antimicrobial drug (antibiotic, antifungal, antiviral)","2014",54
+"768","87205",4.81976744186047,381.976744186047,"Special stain for microorganism","2014",225
+"769","87804",19.3,1830,"Detection test for Influenza virus","2014",195
+"770","87804",19.3,1830,"Detection test for influenza virus","2014",195
+"771","88142",2.9125,191.25,"Pap test (Pap smear)","2014",174
+"772","88356",2.5,150,"Microscopic genetic analysis of nerve tissue","2014",136
+"773","90662",3.09826589595376,209.826589595376,"Vaccine for influenza injection","2014",1694
+"774","90662",3.09826589595376,209.826589595376,"Vaccine for influenza for injection into muscle","2014",1694
+"775","90670",38.8299319727891,3782.99319727891,"Pneumococcal vaccine for injection","2014",1148
+"776","90670",38.8299319727891,3782.99319727891,"Pneumococcal vaccine for injection into muscle","2014",1148
+"777","90867",2.59375,159.375,"Transcranial magnetic stimulation initial mapping motor threshold determination delivery and management","2014",69
+"778","90867",2.59375,159.375,"Transcranial magnetic stimulation treatment (stimulates nerve cells in brain to improve symptoms of depression)","2014",69
+"779","90868",4.57377049180328,357.377049180328,"Transcranial magnetic stimulation subsequent delivery and management per session","2014",162
+"780","90868",4.57377049180328,357.377049180328,"Transcranial magnetic stimulation treatment (stimulates nerve cells in brain to improve symptoms of depression), per session","2014",162
+"781","90993",2.46666666666667,146.666666666667,"Dialysis training, patient helper, course not completed","2014",34
+"782","91037",2.13853258081067,113.853258081067,"Monitoring of gastroesophageal reflux including analysis and interpretation","2014",3447
+"783","91132",6.76923076923077,576.923076923077,"Recording of gastrointestinal electrical activity of stomach","2014",24
+"784","92140",2.75961538461538,175.961538461538,"Glaucoma testing of eye fluid pressure","2014",70
+"785","92283",2.03636363636364,103.636363636364,"Extended color vision examination","2014",122
+"786","92284",2.11392405063291,111.392405063291,"Evaluation of eye adaptation to light and dark (rods and cones)","2014",131
+"787","92499",4,300,"Service or surgery of the eye","2014",96
+"788","92507",20,1900,"Treatment of speech, language, voice, communication, or hearing processing disorder","2014",200
+"789","92507",20,1900,"Treatment of speech, language, voice, communication, and/or hearing processing disorder","2014",200
+"790","92526",2.11111111111111,111.111111111111,"Treatment of swallowing or oral feeding function","2014",231
+"791","92526",2.11111111111111,111.111111111111,"Treatment of swallowing and/or oral feeding function","2014",231
+"792","92547",2.34375,134.375,"Use of vertical electrodes during eye or balance evaluation","2014",219
+"793","92552",2.03448275862069,103.448275862069,"Pure tone air conduction threshold hearing assessment","2014",375
+"794","92556",4.88,388,"Assessment of hearing loss and speech recognition","2014",263
+"795","92567",2.01589682063587,101.589682063587,"Eardrum testing using ear probe","2014",11179
+"796","92604",2.08636363636364,108.636363636364,"Analysis and subsequent reprogramming of inner ear (cochlear) implant, patient age 7 years or older","2014",318
+"797","92604",2.08636363636364,108.636363636364,"Analysis and reprogramming of inner ear (cochlear) implant, patient age 7 years or older","2014",318
+"798","92626",4.10648148148148,310.648148148148,"Evaluation of hearing rehabilitation","2014",671
+"799","92626",4.10648148148148,310.648148148148,"Evaluation of hearing rehabilitation first hour","2014",671
+"800","92997",2.5,150,"Balloon catheter opening of major lung artery (pulmonary)","2014",75
+"801","92997",2.5,150,"Balloon catheter opening of major lung artery (pulmonary), accessed through the skin","2014",75
+"802","93000",2.05601659751037,105.601659751037,"Routine EKG using at least 12 leads including interpretation and report","2014",10502
+"803","93040",2.68421052631579,168.421052631579,"Tracing of electrical activity of heart using 1-3 leads with interpretation and report","2014",22
+"804","93285",2.47547797173732,147.547797173732,"Evaluation, testing, and programming adjustment of implantable, patient activated heart recorder system including physician analysis, review, and report","2014",2115
+"805","93291",2.62696522153406,162.696522153406,"Evaluation of implantable heart recorder system including physician analysis, review, and report","2014",4004
+"806","93298",6.61423220973783,561.423220973783,"Remote evaluation of implantable heart recorder system including physician analysis, review, and report up to 30 days","2014",3604
+"807","93298",6.61423220973783,561.423220973783,"Remote evaluations of implantable heart recorder system including physician analysis, review, and report up to 30 days","2014",3604
+"808","93750",2.70669698222406,170.669698222406,"Evaluation of lower heart chamber assist device with physician analysis","2014",10016
+"809","93998",3,200,"Noninvasive vascular diagnostic study","2014",154
+"810","94452",2.19075144508671,119.075144508671,"Testing of lung function at high altitude","2014",350
+"811","94453",2.62307692307692,162.307692307692,"Testing of lung function at high altitude with supplemental oxygen delivery","2014",258
+"812","94770",4.65116279069767,365.116279069767,"Measurement of exhaled carbon dioxide gas","2014",115
+"813","95145",2.18181818181818,118.181818181818,"Preparation and provision of single stinging insect venom for allergen immunotherapy","2014",44
+"814","95147",2.95454545454545,195.454545454545,"Preparation and provision of 3 single stinging insect venom for allergen immunotherapy","2014",39
+"815","95148",2.8125,181.25,"Preparation and provision of 4 single stinging insect venom for allergen immunotherapy","2014",28
+"816","95800",6.09567901234568,509.567901234568,"Study of sleep patterns","2014",1479
+"817","95801",4.45454545454545,345.454545454545,"Study of sleep patterns","2014",235
+"818","95806",5.31466395112016,431.466395112016,"Unattended sleep study with recording of heart rate, oxygen, respiratory airflow and effort","2014",7265
+"819","95834",2.11111111111111,111.111111111111,"Manual muscle testing of whole body including hands","2014",33
+"820","95981",2.58426966292135,158.426966292135,"Electronic analysis of implanted gastric neurostimulator generator or transmitter","2014",174
+"821","95982",2.17532467532468,117.532467532468,"Electronic analysis and programming of implanted gastric neurostimulator generator or transmitter","2014",257
+"822","96111",2.91666666666667,191.666666666667,"Developmental testing","2014",21
+"823","96920",2.21739130434783,121.739130434783,"Laser treatment (total area less than 250 sq centimeters) for inflammatory skin disease","2014",158
+"824","96922",2.92857142857143,192.857142857143,"Laser treatment (over 500 sq centimeters) for inflammatory skin disease","2014",41
+"825","97762",2.2972972972973,129.72972972973,"Evaluation of orthotic or prosthetic use, each 15 minutes","2014",85
+"826","98929",2.08991494532199,108.991494532199,"Osteopathic manipulative treatment to 9-10 body regions","2014",1677
+"827","G0009",3.03024830699774,203.024830699774,"Administration of pneumococcal vaccine","2014",2702
+"828","G0108",2.11767866738313,111.767866738313,"Diabetes outpatient self-management training services, individual, per 30 minutes","2014",3372
+"829","G0389",2.39750273540581,139.750273540581,"Ultrasound b-scan and/or real time with image documentation; for abdominal aortic aneurysm (aaa) screening","2014",27247
+"830","G0398",2.93548387096774,193.548387096774,"Home sleep study test (hst) with type ii portable monitor, unattended; minimum of 7 channels: eeg, eog, emg, ecg/heart rate, airflow, respiratory effort and oxygen saturation","2014",29
+"831","G0399",12.7142857142857,1171.42857142857,"Home sleep test (hst) with type iii portable monitor, unattended; minimum of 4 channels: 2 respiratory movement/airflow, 1 ecg/heart rate and 1 oxygen saturation","2014",1198
+"832","G0400",3.94117647058824,294.117647058824,"Home sleep test (hst) with type iv portable monitor, unattended; minimum of 3 channels","2014",71
+"833","G0407",2.7906976744186,179.06976744186,"Follow-up inpatient consultation, intermediate, physicians typically spend 25 minutes communicating with the patient via telehealth","2014",2077
+"834","G0408",4.65714285714286,365.714285714286,"Follow-up inpatient consultation, complex, physicians typically spend 35 minutes communicating with the patient via telehealth","2014",1284
+"835","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examination for prostate needle saturation biopsy sampling, 1-20 specimens","2014",8860
+"836","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examinations for prostate needle saturation biopsy sampling, 10-20 specimens","2014",8860
+"837","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examinations, for prostate needle biopsy, any method, 10-20 specimens","2014",8860
+"838","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examinations, for prostate needle biopsy, any method","2014",8860
+"839","G0424",2.08333333333333,108.333333333333,"Pulmonary rehabilitation, including exercise (includes monitoring), one hour, per session, up to two sessions per day","2014",67
+"840","G0425",5.18165938864629,418.165938864629,"Telehealth consultation, emergency department or initial inpatient, typically 30 minutes communicating with the patient via telehealth","2014",3698
+"841","G0426",2.75485188968335,175.485188968335,"Telehealth consultation, emergency department or initial inpatient, typically 50 minutes communicating with the patient via telehealth","2014",2203
+"842","G0427",2.53678077203205,153.678077203205,"Telehealth consultation, emergency department or initial inpatient, typically 70 minutes or more communicating with the patient via telehealth","2014",2574
+"843","G0437",2.61183431952663,161.183431952663,"Smoking and tobacco cessation counseling visit for the asymptomatic patient; intensive, greater than 10 minutes","2014",1919
+"844","G0439",3.88804715127701,288.804715127701,"Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit","2014",179878
+"845","G0442",5.00892857142857,400.892857142857,"Annual alcohol misuse screening, 15 minutes","2014",1144
+"846","G0444",11.5133689839572,1051.33689839572,"Annual depression screening, 15 minutes","2014",1815
+"847","G0446",3.29059829059829,229.059829059829,"Intensive behavioral therapy to reduce cardiovascular disease risk, individual, face-to-face, bi-annual, 15 minutes","2014",318
+"848","G0446",3.29059829059829,229.059829059829,"Annual, face-to-face intensive behavioral therapy for cardiovascular disease, individual, 15 minutes","2014",318
+"849","J0585",7.93800539083558,693.800539083558,"Injection, onabotulinumtoxina, 1 unit","2014",2241
+"850","J0696",2.70769230769231,170.769230769231,"Injection, ceftriaxone sodium, per 250 mg","2014",251
+"851","J0702",2.33333333333333,133.333333333333,"Injection, betamethasone acetate 3mg and betamethasone sodium phosphate 3mg","2014",101
+"852","J1020",3.57894736842105,257.894736842105,"Injection, methylprednisolone acetate, 20 mg","2014",191
+"853","J1030",2.02912621359223,102.912621359223,"Injection, methylprednisolone acetate, 40 mg","2014",1349
+"854","J1885",4.32394366197183,332.394366197183,"Injection, ketorolac tromethamine, per 15 mg","2014",391
+"855","J2785",2.5,150,"Injection, regadenoson, 0.1 mg","2014",NA
+"856","J2785",2.5,150,"Injection, regadenoson, 0. 1 mg","2014",NA
+"857","J2920",2.14285714285714,114.285714285714,"Injection, methylprednisolone sodium succinate, up to 40 mg","2014",34
+"858","J2930",29.125,2812.5,"Injection, methylprednisolone sodium succinate, up to 125 mg","2014",74
+"859","J3010",18.5909090909091,1759.09090909091,"Injection, fentanyl citrate, 0.1 mg","2014",71
+"860","J3010",18.5909090909091,1759.09090909091,"Injection, fentanyl citrate, 0. 1 mg","2014",71
+"861","J7323",3.5,250,"Hyaluronan or derivative, euflexxa, for intra-articular injection, per dose","2014",97
+"862","J7324",3.75806451612903,275.806451612903,"Hyaluronan or derivative, orthovisc, for intra-articular injection, per dose","2014",104
+"863","J7620",4.32727272727273,332.727272727273,"Albuterol, up to 2.5 mg and ipratropium bromide, up to 0.5 mg, fda-approved final product, non-compounded, administered through dme","2014",95
+"864","J7620",4.32727272727273,332.727272727273,"Albuterol, up to 2. 5 mg and ipratropium bromide, up to 0. 5 mg, fda-approved final product, non-compounded, administered through dme","2014",95
+"865","P9603",2.28250141394874,128.250141394874,"Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled.","2014",122893
+"866","P9603",2.28250141394874,128.250141394874,"Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled","2014",122893
+"867","Q3014",108,10700,"Telehealth originating site facility fee","2014",1121
+"868","Q4038",2.125,112.5,"Cast supplies, short leg cast, adult (11 years +), fiberglass","2014",60
+"869","Q4110",5.30769230769231,430.769230769231,"Primatrix, per square centimeter","2014",51
+"870","Q9965",18.3636363636364,1736.36363636364,"Low osmolar contrast material, 100-199 mg/ml iodine concentration, per ml","2014",174
+"871","0159T",3.24659653465347,224.659653465347,"Computer-aided detection and computer algorithm analysis of breast MRI image data","2015",10493
+"872","0191T",59.1206030150754,5812.06030150754,"Internal insertion of eye fluid drainage device","2015",35295
+"873","0249T",2.37724550898204,137.724550898204,"Suturing hemorrhoids using ultrasound guidance","2015",397
+"874","0281T",6.26086956521739,526.086956521739,"Catheter-delivered implant to left upper heart chamber for appendage closure using imaging","2015",288
+"875","0281T",6.26086956521739,526.086956521739,"Radiological supervision and interpretation of catheter-delivered implant (accessed through the skin) to left upper heart chamber for appendage closure","2015",288
+"876","0297T",2.62162162162162,162.162162162162,"Ext ecg scan w/report","2015",97
+"877","0297T",2.62162162162162,162.162162162162,"Analysis and report of external EKG recording for more than 48 hours up to 21 days","2015",97
+"878","0298T",7.70022497187851,670.022497187852,"Ext ecg review and interp","2015",13691
+"879","0298T",7.70022497187851,670.022497187852,"Review and interpretation of external EKG recording for more than 48 hours up to 21 days","2015",13691
+"880","0308T",6.23076923076923,523.076923076923,"Insj ocular telescope prosth","2015",81
+"881","0308T",6.23076923076923,523.076923076923,"Insertion of prosthetic telescope in eye for the treatment of central vision","2015",81
+"882","102",2.33707865168539,133.707865168539,"Anesthesia for procedure to repair lip defect present at birth","2015",208
+"883","11980",2.0337552742616,103.37552742616,"Insertion of hormone pellets into tissue","2015",482
+"884","11980",2.0337552742616,103.37552742616,"Insertion of hormone pellets beneath the skin","2015",482
+"885","15110",3.57142857142857,257.142857142857,"Skin graft at trunk, arms, or legs (first 100 sq cm or less, or 1% body area of infants and children)","2015",725
+"886","15860",2.25739320920044,125.739320920044,"Injection of agent into vein to assess blood flow of skin graft or flap","2015",2061
+"887","15877",2.125,112.5,"Suction assisted removal of fat from trunk","2015",34
+"888","17108",3.2,220,"Destruction of skin growth (over 50.0 sq centimeters)","2015",160
+"889","1925",2.1864406779661,118.64406779661,"Anesthesia for X-ray procedure on neck or heart artery","2015",11352
+"890","1933",2.07142857142857,107.142857142857,"Anesthesia for X-ray procedure of brain vein or lymph system","2015",116
+"891","1933",2.07142857142857,107.142857142857,"Anesthesia for X-ray procedure on brain vein","2015",116
+"892","20500",2.54166666666667,154.166666666667,"Injection for repair of abnormal muscle drainage tract","2015",1281
+"893","20982",3.12977099236641,212.977099236641,"Destruction of bone growth using CT guidance","2015",410
+"894","20982",3.12977099236641,212.977099236641,"Destruction of bone growths using CT guidance, accessed through the skin","2015",410
+"895","20982",3.12977099236641,212.977099236641,"Destruction of 1 or more bone growths accessed through the skin","2015",410
+"896","21445",3.88461538461538,288.461538461538,"Open surgical treatment of broken jaw or cheek bone","2015",101
+"897","21445",3.88461538461538,288.461538461538,"Open treatment of broken jaw or cheek bone","2015",101
+"898","22856",4.39285714285714,339.285714285714,"Insertion of artificial spine disc","2015",615
+"899","22856",4.39285714285714,339.285714285714,"Insertion of artificial upper spine disc, anterior approach","2015",615
+"900","24301",2.32549019607843,132.549019607843,"Relocation of muscle or tendon of upper arm or elbow","2015",593
+"901","25430",2.18181818181818,118.181818181818,"Insertion of vascular bone graft into wrist bone","2015",24
+"902","27391",2.16438356164384,116.438356164384,"Repair of multiple hamstring tendons","2015",158
+"903","27391",2.16438356164384,116.438356164384,"Repair of multiple hamstring tendons, open procedure","2015",158
+"904","27394",2.73263888888889,173.263888888889,"Lengthening of multiple hamstring tendons in one leg","2015",787
+"905","27443",3.26666666666667,226.666666666667,"Repair of knee joint","2015",196
+"906","29086",2.41666666666667,141.666666666667,"Application of cast to finger","2015",29
+"907","29851",2.66666666666667,166.666666666667,"Treatment of knee joint fracture with assistance of an endoscope","2015",40
+"908","29851",2.66666666666667,166.666666666667,"Treatment of knee joint fractures with assistance of an endoscope with fixation","2015",40
+"909","29855",3.49469964664311,249.469964664311,"Treatment of broken leg bone with assistance of an endoscope","2015",989
+"910","29856",2.32142857142857,132.142857142857,"Treatment of broken leg bone with assistance of an endoscope","2015",65
+"911","31297",2.00875273522976,100.875273522976,"Dilation of nasal sinus using an endoscope","2015",918
+"912","31627",2.07420573205954,107.420573205954,"Computer-assisted image-guided navigation of lung airways using an endoscope","2015",9336
+"913","31760",2.61538461538462,161.538461538462,"Repair of windpipe cartilage by insertion of splint or graft","2015",34
+"914","33229",2.19278996865204,119.278996865204,"Removal and replacement of multiple lead permanent pacemaker pulse generator","2015",4197
+"915","33282",3.66973574076288,266.973574076288,"Implantation of long-term patient-activated heart monitoring device","2015",30690
+"916","33282",3.66973574076288,266.973574076288,"Implantation patient-activated heart monitoring device","2015",30690
+"917","33982",5.90909090909091,490.909090909091,"Replacement of lower heart chamber assistive blood flow device","2015",65
+"918","33982",5.90909090909091,490.909090909091,"Replacement of lower heart chamber assistive blood flow devices","2015",65
+"919","38242",2.02702702702703,102.702702702703,"Transplantation of donor stem cells from bone marrow or blood with infusion of donor white blood cells","2015",150
+"920","38794",2.53333333333333,153.333333333333,"Exposure of lymph node of chest cavity","2015",38
+"921","42200",2.30769230769231,130.769230769231,"Repair of defect of roof of mouth","2015",30
+"922","43237",10.7932960893855,979.329608938547,"Examination of esophagus, stomach, and upper small bowel using an endoscope","2015",9660
+"923","43237",10.7932960893855,979.329608938547,"Ultrasound examination of esophagus, stomach, and/or upper small bowel using an endoscope","2015",9660
+"924","43238",11.025787965616,1002.5787965616,"Ultrasound guided needle aspiration or biopsies of esophagus using an endoscope","2015",7696
+"925","43257",4.31818181818182,331.818181818182,"Heat delivery to muscle at esophagus and stomach to treat gastrict reflux using an endoscope","2015",285
+"926","43257",4.31818181818182,331.818181818182,"Heat delivery to muscle at esophagus and stomach to treat gastric reflux using an endoscope","2015",285
+"927","43257",4.31818181818182,331.818181818182,"Heat delivery to muscle at esophagus and/or stomach to treat gastric reflux using an endoscope","2015",285
+"928","43496",2.08333333333333,108.333333333333,"Relocation of upper small bowel","2015",25
+"929","43775",25.4505494505494,2445.05494505494,"Stomach bypass procedure with partial removal of stomach using an endoscope","2015",16212
+"930","43775",25.4505494505494,2445.05494505494,"Stomach reduction procedure with partial removal of stomach using an endoscope","2015",16212
+"931","46744",2.53846153846154,153.846153846154,"Repair of defect for single channel outlet of rectum, vagina, and urinary tract","2015",33
+"932","46946",2.63843236409608,163.843236409608,"Removal and tying 2 or more hemorrhoid group","2015",4174
+"933","47142",3.24,224,"Removal of donor liver right lobe","2015",81
+"934","47146",2.125,112.5,"Preparation of donor liver for transplantation","2015",85
+"935","50949",2.10196078431373,110.196078431373,"Procedure of duct (ureter) using an endoscope","2015",536
+"936","50949",2.10196078431373,110.196078431373,"Urinary duct (ureter) procedure using an endoscope","2015",536
+"937","51990",2.71825396825397,171.825396825397,"Suture suspension of bladder canal (urethra) to control leakage using an endoscope","2015",1370
+"938","534",2.82682521287852,182.682521287852,"Anesthesia for insertion or replace of pacing heart defibrillator","2015",56104
+"939","54200",2.17073170731707,117.073170731707,"Injection procedure to correct abnormally-thickened penile tissue","2015",267
+"940","54200",2.17073170731707,117.073170731707,"Injection procedure to correct abnormally thickened penile tissue","2015",267
+"941","560",2.11935828877005,111.935828877005,"Anesthesia for procedure on heart and great blood vessels","2015",39632
+"942","61860",4.09090909090909,309.090909090909,"Implantation of neurostimulator electrodes in brain","2015",45
+"943","64430",2.01362862010221,101.362862010221,"Injection of anesthetic agent, pudendal (external genital) nerve","2015",1182
+"944","64505",2.48433734939759,148.433734939759,"Injection of anesthetic agent, trigeminal nerve bundle","2015",1031
+"945","64566",2.4708276797829,147.08276797829,"Implantation of lower leg neurostimulator electrode","2015",1821
+"946","64566",2.4708276797829,147.08276797829,"Implantation of lower leg neurostimulator electrode, accessed through the skin","2015",1821
+"947","64611",2.29192546583851,129.192546583851,"Injection of chemical for destruction of salivary glands","2015",1107
+"948","64611",2.29192546583851,129.192546583851,"Injection of chemical for destruction of salivary glands on both sides of the mouth","2015",1107
+"949","64650",2.24324324324324,124.324324324324,"Injection of chemical for destruction of underarm sweat glands","2015",83
+"950","64868",2.06666666666667,106.666666666667,"Connection of nerves to restore function to the face","2015",31
+"951","65800",2.28998505231689,128.998505231689,"Aspiration of eye fluid for diagnosis","2015",1532
+"952","65800",2.28998505231689,128.998505231689,"Aspiration of eye fluid","2015",1532
+"953","65820",2.84415584415584,184.415584415584,"Incision to improve eye fluid flow","2015",219
+"954","66505",5,400,"Incision and drainage of eye fluid accumulation in iris","2015",55
+"955","69799",2.02439024390244,102.439024390244,"Middle ear procedure","2015",83
+"956","70310",5,400,"X-ray of teeth, less than full mouth","2015",60
+"957","70558",2.33333333333333,133.333333333333,"MRI scan of brain with contrast","2015",42
+"958","70558",2.33333333333333,133.333333333333,"MRI scan of brain with contrast, during open brain procedure","2015",42
+"959","75559",2.2,120,"MRI of heart with stress imaging","2015",66
+"960","75571",3.63426488456865,263.426488456865,"CT scan of heart with evaluation of blood vessel calcium","2015",5982
+"961","75572",2.08177881412392,108.177881412392,"CT scan of heart structure","2015",12499
+"962","75572",2.08177881412392,108.177881412392,"CT scan of heart structure with contrast","2015",12499
+"963","75807",2.96774193548387,196.774193548387,"Imaging of lymphatic tissue of pelvis and abdomen","2015",92
+"964","75807",2.96774193548387,196.774193548387,"Radiological supervision and interpretation of imaging of lymphatic system of both side of pelvis and abdomen","2015",92
+"965","76497",2.39393939393939,139.393939393939,"CT scan","2015",79
+"966","76977",3.25,225,"Ultrasound of bone density measurement","2015",39
+"967","77071",2.06917475728155,106.917475728155,"Imaging of joint with stressing by physician","2015",1705
+"968","77399",3.35294117647059,235.294117647059,"Management of radiation therapy","2015",228
+"969","77605",3.89189189189189,289.189189189189,"External hyperthermia treatment depth greater than 4 cm","2015",144
+"970","78492",2.05628502802242,105.628502802242,"Nuclear medicine study heart muscle at rest and/or stress multiple studies","2015",25683
+"971","78599",3.82352941176471,282.352941176471,"Nuclear medicine study of respiratory systems","2015",130
+"972","78999",4.71515151515151,371.515151515152,"Diagnostic nuclear medicine procedures","2015",778
+"973","79101",6.35030549898167,535.030549898167,"Radioactive material therapy into vein","2015",3118
+"974","79445",3.34122562674095,234.122562674095,"Radioactive material therapy into artery","2015",2399
+"975","80048",2.95297555791711,195.297555791711,"Blood test, basic group of blood chemicals","2015",22230
+"976","80051",8.79329608938547,779.329608938547,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)","2015",1574
+"977","80053",2.05715859030837,105.715859030837,"Blood test, comprehensive group of blood chemicals","2015",18679
+"978","80164",2.78105141536684,178.105141536684,"Dipropylacetic acid (valproic acid) level","2015",4814
+"979","80164",2.78105141536684,178.105141536684,"Valproic acid level","2015",4814
+"980","80188",6.07692307692308,507.692307692308,"Primidone level","2015",79
+"981","80202",2.42380952380952,142.380952380952,"Vancomycin (antibiotic) level","2015",509
+"982","81000",2.30409356725146,130.409356725146,"Manual urinalysis test with examination using microscope","2015",788
+"983","81001",2.41611670719,141.611670719,"Manual urinalysis test with examination using microscope","2015",13912
+"984","81003",5.63970588235294,463.970588235294,"Automated urinalysis test","2015",1534
+"985","82040",2.42893725992318,142.893725992318,"Albumin (protein) level","2015",1897
+"986","82043",3.57317073170732,257.317073170732,"Urine microalbumin (protein) level","2015",586
+"987","82140",3.65420560747664,265.420560747664,"Ammonia level","2015",1173
+"988","82150",5.1744966442953,417.44966442953,"Amylase (enzyme) level","2015",771
+"989","82248",14.6258741258741,1362.58741258741,"Bilirubin level","2015",4183
+"990","82272",4.88732394366197,388.732394366197,"Stool analysis for blood","2015",347
+"991","82306",5.34606569900688,434.606569900688,"Vitamin D-3 level","2015",6998
+"992","82310",8.24096385542169,724.096385542169,"Calcium level","2015",684
+"993","82374",7.32352941176471,632.352941176471,"Carbon dioxide (bicarbonate) level","2015",249
+"994","82378",2.0126582278481,101.26582278481,"Carcinoembryonic antigen (CEA) protein level","2015",159
+"995","82435",7.35294117647059,635.294117647059,"Blood chloride level","2015",250
+"996","82533",6.15,515,"Cortisol (hormone) measurement","2015",123
+"997","82550",3.82142857142857,282.142857142857,"Creatine kinase (cardiac enzyme) level","2015",856
+"998","82553",3.59090909090909,259.090909090909,"Creatine kinase (cardiac enzyme) level","2015",79
+"999","82565",6.70444444444444,570.444444444444,"Blood creatinine level","2015",3017
+"1000","82570",5.21212121212121,421.212121212121,"Creatinine level to test for kidney function or muscle injury","2015",860
+"1001","82607",5.11826452064381,411.826452064381,"Cyanocobalamin (vitamin B-12) level","2015",7314
+"1002","82668",6.8,580,"Erythropoietin (protein) level","2015",102
+"1003","82728",3.36763129689175,236.763129689175,"Ferritin (blood protein) level","2015",3142
+"1004","82746",4.77328843995511,377.328843995511,"Folic acid level","2015",4253
+"1005","82784",11.2857142857143,1028.57142857143,"Gammaglobulin (immune system protein) measurement","2015",316
+"1006","82803",4.36,336,"Blood gases measurement","2015",327
+"1007","82947",9.96858638743456,896.858638743456,"Blood glucose (sugar) level","2015",1904
+"1008","82977",4.44,344,"Glutamyltransferase (liver enzyme) level","2015",111
+"1009","83036",3.16638900458142,216.638900458142,"Hemoglobin A1C level","2015",15205
+"1010","83520",2.90909090909091,190.909090909091,"Measurement of substance using immunoassay technique","2015",32
+"1011","83540",3.65896487985213,265.896487985213,"Iron level","2015",3959
+"1012","83550",3.46083550913838,246.083550913838,"Iron binding capacity","2015",2651
+"1013","83615",3.10891089108911,210.891089108911,"Lactate dehydrogenase (enzyme) level","2015",314
+"1014","83690",5.96240601503759,496.240601503759,"Lipase (fat enzyme) level","2015",793
+"1015","83921",3,200,"Organic acid level","2015",99
+"1016","83935",5.45454545454545,445.454545454545,"Urine osmolality (concentration) measurement","2015",60
+"1017","84075",2.03448275862069,103.448275862069,"Phosphatase (enzyme) level","2015",177
+"1018","84100",3.22765957446809,222.765957446809,"Phosphate level","2015",1517
+"1019","84132",3.5968992248062,259.68992248062,"Blood potassium level","2015",1856
+"1020","84146",4.72222222222222,372.222222222222,"Prolactin (milk producing hormone) level","2015",85
+"1021","84155",3.98540145985401,298.540145985401,"Total protein level, blood","2015",546
+"1022","84156",3.63636363636364,263.636363636364,"Total protein level, urine","2015",120
+"1023","84295",7.31325301204819,631.325301204819,"Blood sodium level","2015",607
+"1024","84300",5.53846153846154,453.846153846154,"Urine sodium level","2015",72
+"1025","84403",5.33333333333333,433.333333333333,"Testosterone (hormone) level","2015",80
+"1026","84436",3.48815165876777,248.815165876777,"Thyroxine (thyroid chemical) measurement","2015",2208
+"1027","84439",5.28132387706856,428.132387706856,"Thyroxine (thyroid chemical) measurement","2015",4468
+"1028","84443",3.27193548387097,227.193548387097,"Blood test, thyroid stimulating hormone (TSH)","2015",20286
+"1029","84450",3.89285714285714,289.285714285714,"Liver enzyme (SGOT), level","2015",872
+"1030","84460",3.29428571428571,229.428571428571,"Liver enzyme (SGPT), level","2015",1153
+"1031","84466",2.71544715447154,171.544715447154,"Transferrin (iron binding protein) level","2015",334
+"1032","84479",3.63257575757576,263.257575757576,"Thyroid hormone evaluation","2015",959
+"1033","84480",7.99090909090909,699.090909090909,"Thyroid hormone, T3 measurement","2015",879
+"1034","84481",3.22516556291391,222.516556291391,"Thyroid hormone, T3 measurement","2015",487
+"1035","84520",8.53511705685619,753.511705685619,"Urea nitrogen level to assess kidney function","2015",2552
+"1036","84550",5.39951573849879,439.951573849879,"Uric acid level, blood","2015",2230
+"1037","85007",24.0574712643678,2305.74712643678,"Microscopic examination for white blood cells with manual cell count","2015",2093
+"1038","85014",3.8734693877551,287.34693877551,"Red blood cell concentration measurement","2015",1898
+"1039","85018",3.68681318681319,268.681318681319,"Hemoglobin measurement","2015",2013
+"1040","85025",2.34816993464052,134.816993464052,"Complete blood cell count (red cells, white blood cell, platelets), automated test","2015",35927
+"1041","85027",65.2568306010929,6425.68306010929,"Complete blood cell count (red cells, white blood cell, platelets), automated test","2015",11942
+"1042","85045",13.75,1275,"Red blood count, automated test","2015",440
+"1043","85652",2.51851851851852,151.851851851852,"Red blood cell sedimentation rate, to detect inflammation","2015",68
+"1044","85730",2.6241610738255,162.41610738255,"Coagulation assessment blood test","2015",782
+"1045","86038",5.02702702702703,402.702702702703,"Screening test for autoimmune disorder","2015",186
+"1046","86039",3.63636363636364,263.636363636364,"Measurement of antibody for assessment of autoimmune disorder","2015",40
+"1047","86140",3.7344398340249,273.44398340249,"Measurement C-reactive protein for detection of infection or inflammation","2015",900
+"1048","86300",2.25,125,"Immunologic analysis for detection of tumor antigen","2015",27
+"1049","86431",13.4166666666667,1241.66666666667,"Rheumatoid factor level","2015",161
+"1050","87040",2.89225589225589,189.225589225589,"Bacterial blood culture","2015",859
+"1051","87046",20.5333333333333,1953.33333333333,"Stool culture","2015",308
+"1052","87071",52.2777777777778,5127.77777777778,"Bacterial culture and colony count","2015",941
+"1053","87081",3.86842105263158,286.842105263158,"Screening test for pathogenic organisms","2015",294
+"1054","87086",2.51724754244861,151.724754244861,"Bacterial colony count, urine","2015",14084
+"1055","87147",16.7857142857143,1578.57142857143,"Identification of organisms by immunologic analysis","2015",235
+"1056","87177",7.06451612903226,606.451612903226,"Smear for parasites","2015",219
+"1057","87184",36.5333333333333,3553.33333333333,"Evaluation of antimicrobial drug (antibiotic, antifungal, antiviral)","2015",548
+"1058","87205",4.81976744186047,381.976744186047,"Special stain for microorganism","2015",1658
+"1059","87804",19.3,1830,"Detection test for Influenza virus","2015",1544
+"1060","87804",19.3,1830,"Detection test for influenza virus","2015",1544
+"1061","88142",2.9125,191.25,"Pap test (Pap smear)","2015",233
+"1062","88356",2.5,150,"Microscopic genetic analysis of nerve tissue","2015",260
+"1063","90662",3.09826589595376,209.826589595376,"Vaccine for influenza injection","2015",3216
+"1064","90662",3.09826589595376,209.826589595376,"Vaccine for influenza for injection into muscle","2015",3216
+"1065","90670",38.8299319727891,3782.99319727891,"Pneumococcal vaccine for injection","2015",5708
+"1066","90670",38.8299319727891,3782.99319727891,"Pneumococcal vaccine for injection into muscle","2015",5708
+"1067","90867",2.59375,159.375,"Transcranial magnetic stimulation initial mapping motor threshold determination delivery and management","2015",83
+"1068","90867",2.59375,159.375,"Transcranial magnetic stimulation treatment (stimulates nerve cells in brain to improve symptoms of depression)","2015",83
+"1069","90868",4.57377049180328,357.377049180328,"Transcranial magnetic stimulation subsequent delivery and management per session","2015",279
+"1070","90868",4.57377049180328,357.377049180328,"Transcranial magnetic stimulation treatment (stimulates nerve cells in brain to improve symptoms of depression), per session","2015",279
+"1071","90993",2.46666666666667,146.666666666667,"Dialysis training, patient helper, course not completed","2015",37
+"1072","91037",2.13853258081067,113.853258081067,"Monitoring of gastroesophageal reflux including analysis and interpretation","2015",4168
+"1073","91132",6.76923076923077,576.923076923077,"Recording of gastrointestinal electrical activity of stomach","2015",88
+"1074","92140",2.75961538461538,175.961538461538,"Glaucoma testing of eye fluid pressure","2015",287
+"1075","92283",2.03636363636364,103.636363636364,"Extended color vision examination","2015",224
+"1076","92284",2.11392405063291,111.392405063291,"Evaluation of eye adaptation to light and dark (rods and cones)","2015",167
+"1077","92499",4,300,"Service or surgery of the eye","2015",200
+"1078","92507",20,1900,"Treatment of speech, language, voice, communication, or hearing processing disorder","2015",300
+"1079","92507",20,1900,"Treatment of speech, language, voice, communication, and/or hearing processing disorder","2015",300
+"1080","92526",2.11111111111111,111.111111111111,"Treatment of swallowing or oral feeding function","2015",247
+"1081","92526",2.11111111111111,111.111111111111,"Treatment of swallowing and/or oral feeding function","2015",247
+"1082","92547",2.34375,134.375,"Use of vertical electrodes during eye or balance evaluation","2015",225
+"1083","92552",2.03448275862069,103.448275862069,"Pure tone air conduction threshold hearing assessment","2015",118
+"1084","92556",4.88,388,"Assessment of hearing loss and speech recognition","2015",122
+"1085","92567",2.01589682063587,101.589682063587,"Eardrum testing using ear probe","2015",13442
+"1086","92604",2.08636363636364,108.636363636364,"Analysis and subsequent reprogramming of inner ear (cochlear) implant, patient age 7 years or older","2015",459
+"1087","92604",2.08636363636364,108.636363636364,"Analysis and reprogramming of inner ear (cochlear) implant, patient age 7 years or older","2015",459
+"1088","92626",4.10648148148148,310.648148148148,"Evaluation of hearing rehabilitation","2015",887
+"1089","92626",4.10648148148148,310.648148148148,"Evaluation of hearing rehabilitation first hour","2015",887
+"1090","92997",2.5,150,"Balloon catheter opening of major lung artery (pulmonary)","2015",95
+"1091","92997",2.5,150,"Balloon catheter opening of major lung artery (pulmonary), accessed through the skin","2015",95
+"1092","93000",2.05601659751037,105.601659751037,"Routine EKG using at least 12 leads including interpretation and report","2015",14865
+"1093","93040",2.68421052631579,168.421052631579,"Tracing of electrical activity of heart using 1-3 leads with interpretation and report","2015",153
+"1094","93285",2.47547797173732,147.547797173732,"Evaluation, testing, and programming adjustment of implantable, patient activated heart recorder system including physician analysis, review, and report","2015",2978
+"1095","93291",2.62696522153406,162.696522153406,"Evaluation of implantable heart recorder system including physician analysis, review, and report","2015",5514
+"1096","93298",6.61423220973783,561.423220973783,"Remote evaluation of implantable heart recorder system including physician analysis, review, and report up to 30 days","2015",8830
+"1097","93298",6.61423220973783,561.423220973783,"Remote evaluations of implantable heart recorder system including physician analysis, review, and report up to 30 days","2015",8830
+"1098","93750",2.70669698222406,170.669698222406,"Evaluation of lower heart chamber assist device with physician analysis","2015",13095
+"1099","93998",3,200,"Noninvasive vascular diagnostic study","2015",36
+"1100","94452",2.19075144508671,119.075144508671,"Testing of lung function at high altitude","2015",379
+"1101","94453",2.62307692307692,162.307692307692,"Testing of lung function at high altitude with supplemental oxygen delivery","2015",341
+"1102","94770",4.65116279069767,365.116279069767,"Measurement of exhaled carbon dioxide gas","2015",200
+"1103","95145",2.18181818181818,118.181818181818,"Preparation and provision of single stinging insect venom for allergen immunotherapy","2015",48
+"1104","95147",2.95454545454545,195.454545454545,"Preparation and provision of 3 single stinging insect venom for allergen immunotherapy","2015",65
+"1105","95148",2.8125,181.25,"Preparation and provision of 4 single stinging insect venom for allergen immunotherapy","2015",45
+"1106","95800",6.09567901234568,509.567901234568,"Study of sleep patterns","2015",1975
+"1107","95801",4.45454545454545,345.454545454545,"Study of sleep patterns","2015",588
+"1108","95806",5.31466395112016,431.466395112016,"Unattended sleep study with recording of heart rate, oxygen, respiratory airflow and effort","2015",10438
+"1109","95834",2.11111111111111,111.111111111111,"Manual muscle testing of whole body including hands","2015",133
+"1110","95981",2.58426966292135,158.426966292135,"Electronic analysis of implanted gastric neurostimulator generator or transmitter","2015",230
+"1111","95982",2.17532467532468,117.532467532468,"Electronic analysis and programming of implanted gastric neurostimulator generator or transmitter","2015",335
+"1112","96111",2.91666666666667,191.666666666667,"Developmental testing","2015",70
+"1113","96920",2.21739130434783,121.739130434783,"Laser treatment (total area less than 250 sq centimeters) for inflammatory skin disease","2015",204
+"1114","96922",2.92857142857143,192.857142857143,"Laser treatment (over 500 sq centimeters) for inflammatory skin disease","2015",41
+"1115","97762",2.2972972972973,129.72972972973,"Evaluation of orthotic or prosthetic use, each 15 minutes","2015",85
+"1116","98929",2.08991494532199,108.991494532199,"Osteopathic manipulative treatment to 9-10 body regions","2015",1720
+"1117","G0009",3.03024830699774,203.024830699774,"Administration of pneumococcal vaccine","2015",6712
+"1118","G0108",2.11767866738313,111.767866738313,"Diabetes outpatient self-management training services, individual, per 30 minutes","2015",3941
+"1119","G0389",2.39750273540581,139.750273540581,"Ultrasound b-scan and/or real time with image documentation; for abdominal aortic aneurysm (aaa) screening","2015",37250
+"1120","G0398",2.93548387096774,193.548387096774,"Home sleep study test (hst) with type ii portable monitor, unattended; minimum of 7 channels: eeg, eog, emg, ecg/heart rate, airflow, respiratory effort and oxygen saturation","2015",91
+"1121","G0399",12.7142857142857,1171.42857142857,"Home sleep test (hst) with type iii portable monitor, unattended; minimum of 4 channels: 2 respiratory movement/airflow, 1 ecg/heart rate and 1 oxygen saturation","2015",1958
+"1122","G0400",3.94117647058824,294.117647058824,"Home sleep test (hst) with type iv portable monitor, unattended; minimum of 3 channels","2015",67
+"1123","G0407",2.7906976744186,179.06976744186,"Follow-up inpatient consultation, intermediate, physicians typically spend 25 minutes communicating with the patient via telehealth","2015",2400
+"1124","G0408",4.65714285714286,365.714285714286,"Follow-up inpatient consultation, complex, physicians typically spend 35 minutes communicating with the patient via telehealth","2015",1956
+"1125","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examination for prostate needle saturation biopsy sampling, 1-20 specimens","2015",33311
+"1126","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examinations for prostate needle saturation biopsy sampling, 10-20 specimens","2015",33311
+"1127","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examinations, for prostate needle biopsy, any method, 10-20 specimens","2015",33311
+"1128","G0416",17.2060950413223,1620.60950413223,"Surgical pathology, gross and microscopic examinations, for prostate needle biopsy, any method","2015",33311
+"1129","G0424",2.08333333333333,108.333333333333,"Pulmonary rehabilitation, including exercise (includes monitoring), one hour, per session, up to two sessions per day","2015",150
+"1130","G0425",5.18165938864629,418.165938864629,"Telehealth consultation, emergency department or initial inpatient, typically 30 minutes communicating with the patient via telehealth","2015",5933
+"1131","G0426",2.75485188968335,175.485188968335,"Telehealth consultation, emergency department or initial inpatient, typically 50 minutes communicating with the patient via telehealth","2015",2697
+"1132","G0427",2.53678077203205,153.678077203205,"Telehealth consultation, emergency department or initial inpatient, typically 70 minutes or more communicating with the patient via telehealth","2015",3483
+"1133","G0437",2.61183431952663,161.183431952663,"Smoking and tobacco cessation counseling visit for the asymptomatic patient; intensive, greater than 10 minutes","2015",2207
+"1134","G0439",3.88804715127701,288.804715127701,"Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit","2015",247377
+"1135","G0442",5.00892857142857,400.892857142857,"Annual alcohol misuse screening, 15 minutes","2015",1122
+"1136","G0444",11.5133689839572,1051.33689839572,"Annual depression screening, 15 minutes","2015",4306
+"1137","G0446",3.29059829059829,229.059829059829,"Intensive behavioral therapy to reduce cardiovascular disease risk, individual, face-to-face, bi-annual, 15 minutes","2015",385
+"1138","G0446",3.29059829059829,229.059829059829,"Annual, face-to-face intensive behavioral therapy for cardiovascular disease, individual, 15 minutes","2015",385
+"1139","J0585",7.93800539083558,693.800539083558,"Injection, onabotulinumtoxina, 1 unit","2015",2945
+"1140","J0696",2.70769230769231,170.769230769231,"Injection, ceftriaxone sodium, per 250 mg","2015",528
+"1141","J0702",2.33333333333333,133.333333333333,"Injection, betamethasone acetate 3mg and betamethasone sodium phosphate 3mg","2015",413
+"1142","J1020",3.57894736842105,257.894736842105,"Injection, methylprednisolone acetate, 20 mg","2015",136
+"1143","J1030",2.02912621359223,102.912621359223,"Injection, methylprednisolone acetate, 40 mg","2015",1463
+"1144","J1885",4.32394366197183,332.394366197183,"Injection, ketorolac tromethamine, per 15 mg","2015",614
+"1145","J2785",2.5,150,"Injection, regadenoson, 0.1 mg","2015",60
+"1146","J2785",2.5,150,"Injection, regadenoson, 0. 1 mg","2015",60
+"1147","J2920",2.14285714285714,114.285714285714,"Injection, methylprednisolone sodium succinate, up to 40 mg","2015",45
+"1148","J2930",29.125,2812.5,"Injection, methylprednisolone sodium succinate, up to 125 mg","2015",466
+"1149","J3010",18.5909090909091,1759.09090909091,"Injection, fentanyl citrate, 0.1 mg","2015",409
+"1150","J3010",18.5909090909091,1759.09090909091,"Injection, fentanyl citrate, 0. 1 mg","2015",409
+"1151","J7323",3.5,250,"Hyaluronan or derivative, euflexxa, for intra-articular injection, per dose","2015",168
+"1152","J7324",3.75806451612903,275.806451612903,"Hyaluronan or derivative, orthovisc, for intra-articular injection, per dose","2015",233
+"1153","J7620",4.32727272727273,332.727272727273,"Albuterol, up to 2.5 mg and ipratropium bromide, up to 0.5 mg, fda-approved final product, non-compounded, administered through dme","2015",238
+"1154","J7620",4.32727272727273,332.727272727273,"Albuterol, up to 2. 5 mg and ipratropium bromide, up to 0. 5 mg, fda-approved final product, non-compounded, administered through dme","2015",238
+"1155","P9603",2.28250141394874,128.250141394874,"Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled.","2015",205820
+"1156","P9603",2.28250141394874,128.250141394874,"Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled","2015",205820
+"1157","Q3014",108,10700,"Telehealth originating site facility fee","2015",1404
+"1158","Q4038",2.125,112.5,"Cast supplies, short leg cast, adult (11 years +), fiberglass","2015",34
+"1159","Q4110",5.30769230769231,430.769230769231,"Primatrix, per square centimeter","2015",69
+"1160","Q9965",18.3636363636364,1736.36363636364,"Low osmolar contrast material, 100-199 mg/ml iodine concentration, per ml","2015",202
