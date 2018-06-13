@@ -10,5 +10,6 @@ We extracted procedure data from the Center for Medicare and Medicaid Services (
 Limitations: CMS only provides procedural data since 2012, which limits the ability to detect long-term trends. In addition, the Medicare data is comprised mostly of patients over 65 years old, is not normalized (e.g., count of procedures per 10k patients), and is biased by changes in the total Medicare population over time. For medical literature, only articles with assigned MeSH keywords were included in our study.
 
 
-Graph example
+## Graph example
+
 ![example](pericardiocentesis-graph.jpg)
